@@ -1,0 +1,7 @@
+# The Player Character: En
+
+Our player character is an android the others find to be - to use Churchill’s quote about Russia - “a mystery, wrapped in a riddle, inside an enigma”, but is also in many ways the Engine of the group, the one that makes things happen and ends gridlocks as it’s nothing. These qualities has earned him (or her, depending on the moment) the nickname “En”, in both name and pronoun. 
+En is to each of the family that childhood friend who once you meet again is like you never parted, even if it’s been years. To the group as a whole, En’s drive makes En the glue that keeps everyone on the same page.
+En is designed to blend in with any environment, social or natural, to maintain long distance communication and secret information. To enable this, En has been provided great mobility, the best reshaping materials the world ever knew, and an unnerving ability of being at the right place at the right time, possibly a short-range clairvoyance, to anticipate anything being thrown at En. 
+En tends to listen in, ask questions, and make statements rather than long winded speeches. Usually En just acts and does, when nothing needs be said. Decisions can vary greatly and wildly from one moment to the next. There are some rules to En’s “chaos”, though: Putting the team/family first, and relentless determination.
+Combat follows the same pattern. En can change profession, skills and specialization whenever the team is not in combat, usually to fill a weak spot on the team or leverage a discovered weakness of the opponent.
