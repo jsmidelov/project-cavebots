@@ -1,0 +1,28 @@
+<template id="narrated-dialogue">
+    <style>
+        p {
+            color: var(--text-color, blue);
+            background-color: var(--bg-color, pink);
+        }
+    </style>
+    <p><slot></slot></p>
+</template>
+
+<script>
+    class NarratedDialogue extends HTMLElement {
+        constructor() {
+            super();
+            const template = document.querySelector('template').content.cloneNode(true);
+            this.attachShadow({ mode: 'open' }).appendChild(template);
+        }
+
+        connectedCallback(){
+            const textColor = this.getAttribute('text-color');
+            const fontSize = this.getAttribute('font-size');
+
+            this.style.setProperty('--text-color', textColor);
+            this.style.setProperty('--font-size', fontSize);
+        }
+    }
+    customElements.define('narrated-dialogue', NarratedDialogue);
+</script>
