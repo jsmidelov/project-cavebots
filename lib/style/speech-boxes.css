@@ -1,0 +1,46 @@
+@import url('./palette.css');
+h1, h2, h3, h4, h5, h6 {
+    display: block;
+    max-width: 500px;
+    margin: 10px auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+p, ul {
+    color: var(--base-text-color);
+    background-color: var(--base-textbox-color);
+    max-width: 500px;
+    padding: 10px;
+    margin: 10px auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p.shouted{
+    font-size: x-large;
+    font-variant: small-caps;
+}
+p.whispered{
+    font-size: x-small;
+}
+span.keyword{
+    color: var(--keyword-text-color);
+}
+span.concept{
+    color: var(--concept-text-color);
+}
+p[tone='happy']::after{
+    content: '😀';
+}
+p[character="narrator"] {
+    color: var(--narrated-text-color);
+    background-color: var(--narrated-textbox-color);
+}
+/* li:has(+input){ */
+li{
+    list-style: none;
+}
+li label:hover{
+    cursor:pointer;
+}
+li:hover, li label:hover{
+    background-color: var(--option-textbox-highlight);
+}

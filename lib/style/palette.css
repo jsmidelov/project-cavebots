@@ -1,0 +1,21 @@
+:root{
+    --base-text-color: black;
+    --base-textbox-color: beige;
+    --keyword-text-color: red;
+    --concept-text-color: lightblue;
+    --narrated-text-color: white;
+    --narrated-textbox-color: darkblue;
+    --option-textbox-highlight: rgb(249, 249, 234);
+
+}
+@media(prefers-color-scheme: dark) {
+    :root{
+        --base-text-color: black;
+        --base-textbox-color: beige;
+        --keyword-text-color: red;
+        --concept-text-color: lightblue;
+        --narrated-text-color: white;
+        --narrated-textbox-color: darkblue;
+        --option-textbox-highlight: rgb(249, 249, 234);
+    }
+}
