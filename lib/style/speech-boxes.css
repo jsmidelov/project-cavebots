@@ -34,6 +34,10 @@ p[character="narrator"] {
     color: var(--narrated-text-color);
     background-color: var(--narrated-textbox-color);
 }
+p.thought {
+    border: 2px dashed var(--base-text-color);
+    border-radius: 20px;
+}
 /* li:has(+input){ */
 li{
     list-style: none;
