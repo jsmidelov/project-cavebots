@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../lib/style/style.css" />
+    <title>Document</title>
+</head>
+<body>
+    <p character="narrator">Med Ett ljudligt vrål ekades mellan väggarna slog mikrofonernas upptagning på och i taket.</p>
+    <p character="narrator">Det startade en serie processer ett datorsystem gärna utför när den slås på.</p>
+    <p character="narrator">En snabb POST ledde till uppstart av BIOS, som i nästa steg startade Systemets operativsystem startade utan bekymmer. Inga uppdateringar fanns att ladda ner.</p>
+    <p character="narrator">Allt hade aktiverat som om det aldrig slagits av, men den interna klockan visade bara struntvärden</p>
+    <p character="narrator">Ett efter ett aktiverades fler sensorer. Kameralinser, linslock, talsyntes. Slutligen även medvetandeprocessen, och upptäckte att den lystrar till namnet En.</p>
+    <!-- Ska ovan kanske berättas genom en annan röst, "System"? Berättaren är mer lagd åt prosa och imperfekt beskrivande. Det här låter som tekniska statusmeddelande inom En. -->
+    <ul>
+        <li>
+            <input type="radio" id="branch1option1" name="branch1" value="1">
+            <label for="branch1option1">Hej, världen!</label>
+        </li>
+        <li>
+            <input type="radio" id="branch1option2" name="branch1" value="2">
+            <label for="branch1option2">Var... är jag?</label>
+        </li>
+        <li>
+            <input type="radio" id="branch1option3" name="branch1" value="3">
+            <label for="branch1option3">Hur länge har jag sovit?</label>
+        </li>
+    </ul>
+    <p character="narrator">En såg sig omkring, och fann sig i en glascylinder. En prövade att flytta armar och ben, och flyttade de helt motståndslöst.</p>
+    <p character="narrator">Med kunskapen att det var utan bekymmer att röra sig prövade En att känna sig fram. Ytan framför En hade inga räflor, inga ojämnheter, och utgjorde en båge framför En från topp till tå</p>
+    <p character="en" class="thought">Den här skärmen, kapseln, eller vad det än är, måste ha hållit tätt sedan jag lades i eller bakom den.</p>
+    <p character="en" class="thought">Om den fanns för min skull borde det finnas något vis att ta sig ut på.</p>
+    <p character="narrator">Efter en stunds letande fann en två knappar vid skärmens under- och ovansida.</p>
+    <!-- Här har jag några tekniska roligheter. Likt radioknapparna bör checkboxarna slås av när en valts,
+        men vid fel val ska man komma tillbaka hit, och den felaktiga ska vara dold.
+        När både 'top' och 'bottom' är checkade ska 'both' visas -->
+    <ul>
+        <li>
+            <input type="checkbox" id="top" name="shieldButton" value="top">
+            <label for="top">Tryck handen på den övre knappen</label>
+        </li>
+        <li>
+            <input type="checkbox" id="bottom" name="shieldButton" value="bottom">
+            <label for="bottom">Tryck foten på den undre knappen</label>
+        </li>
+        <li>
+            <input type="checkbox" id="both" name="shieldButton" value="both">
+            <label for="both">Tryck på båda knappar med ena handen och foten</label>
+        </li>
+    </ul>
+    <!-- Vid val 1 -->
+    <p character="narrator">En höjde handen på den övre knappen, och en ljusstrimma längsmed skärmens högra sida tändes, bara för att slockna igen när En släpper knappen</p>
+    <!-- Vid val 2 -->
+    <p character="narrator">En satte ned foten på den undre knappen, och en ljusstrimma längsmed skärmens vänstra sida tändes, bara för att slockna igen när En flyttade undan foten</p>
+    <!-- Vid val 3 -->
+    <p character="narrator">Ljusstrimma längsmed skärmens båda sidor tänds, och skärmen glider undan. Ett vinddrag fyller utrymmet.</p>
+    <p character="narrator">Med skärmen väl ur vägen stiger En ut, och betraktar rummet.</p>
+    <!-- Fortsättning -->
+    <p character="narrator">Sju kapslar likt den En steg ut ur sträcker sig längsmed en långsida av rummet. Ens är förstås öppen, men det är fyra andra också.</p>
+    <p character="narrator">Enbart två är fortfarande stängda. Båda har stora etiketter skriva på skärmarna, cirka en och halv meter från botten. "Sophia" lyder den ena. "Andrei" lyder den andra.</p>
+    <ul>
+        <li>
+            <input type="checkbox" id="sophia" name="saveFriend" value="sophia">
+            <label for="sophia">Knacka på kapseln med etiketten Sophia</label>
+        </li>
+        <li>
+            <input type="checkbox" id="andrei" name="saveFriend" value="andrei">
+            <label for="andrei">Knacka på kapseln med etiketten Andrei</label>
+        </li>
+    </ul>
+    <!-- Gren för valet Sophia -->
+    <p character="???">Är det någon där? Jag är på väg ut!</p>
+    <p character="narrator">Knappt hinner En hämta andan för att förklara hur man öppnar kapseln förrän ett vinddrag blåser förbli, och en långsmal figur glider ut.</p>
+    <p character="sophia">En! Bättre uppvaknande kunde jag inte ha önskat. Minus den här cellen, förstås. Och dammet. Och mörkret.</p>
+    <!-- Gren för valet Andrei -->
+    <p character="narrator">Ett regelbundet dunkande hörs från andra sidan skärmen</p>
+    <p character="???">Jag vägrar stanna här inne, jag vill <span class="shout">UT!</span></p>
+    <p character="narrator">En ropar en förklaring, och hoppas den hörs. Efter en stunds tystnad lyser sidorna av skärmen upp, ett vinddrag blåser förbi, och en jätte stampar ut.</p>
+    <p character="andrei">Det där var nog det längsta ögonblicket i hela mitt liv. <span class="shout">Äntligen fri!</span></p>
+    <!-- Fortsättning -->
+    <p character="sophia">Andrei! Det var inte igår, tror jag!</p>
+    <p character="andrei">Ingen aning, men kul att se er båda igen oavsett.</p>
+    <p character="narrator">Den nyåterförenade trion såg sig omkring i rummet. </p>
+    <p character="sophia">Om vi var i dessa tre kapslar, och det är fyra öppna...</p>
+    <p character="andrei">Fotspåren är gamla, men de leder åt samma håll.</p>
+    <p character="sophia">Måste vara de andras. Vi kan inte göra mycket annat än att följa dem. Vad sägs?</p>
+    <p character="narrator">Andrei och En utförde gesten "nicka", och de tre följde fotspåren i hopp om att finna sina fyra kompanioner.</p>
+</body>
+</html>
