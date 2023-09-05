@@ -12,7 +12,6 @@ She has been acting out roles for so long she is starting to find it difficult k
 
 She is also equipped with advanced optical camouflage, allowing her to blend seamlessly into her environment. Sophia’s stealth and hacking abilities make her an invaluable asset in the team's missions, as she is able to access critical information and disable security systems to allow her team members to move through enemy-controlled areas unseen.
 
-
 ## Combat role
 
 In combat, she excels at predicting enemy strategies, calls out their coming actions, and uses coated daggers in melee and silent sidearms from afar. She builds rage as teammates are targeted by attacks, and can spend said rage on powerful finishers (much like Limit Breaks in FF)

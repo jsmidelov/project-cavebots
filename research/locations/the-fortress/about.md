@@ -30,9 +30,15 @@ Detta är en medelsvår grotta, då den har stor påverkan på lagets styrkeför
 
 Om man klättrar - tar trapporna? - upp från entréhallen kan man nå flygbasen. Den blir tillgänglig först efter plot twisten, och behöver klaras av för att avsluta grenen om skärgårdsstaden.
 
-### Magilabb
+Planen är på något vis flygdugliga, och kunna avlossa robotar av något slag, trots att alla kända källor för såväl bränsle som ammunition sinat för hur länge sedan som helst.
 
-Magilabbet ligger i en källarvåning långt under entréhallen. Här väntar avslöjanden om vad Androiderns bortglömda roll under Magins ålder, och därmed svaren på hur de vaknade upp just i fortet i början av spelet. Grottan härifrån nedåt är frivilliga, och med efter denna frigörs Curiosity att gå med i laget.
+### Universitetet
+
+Universitetet ligger i en källarvåning långt under entréhallen. Här studerade man såväl magi som de mer bortglömde tekniska verktyg som fanns innan man-maskinkriget.
+
+Här väntar avslöjanden om hur Androiderna användes som vakter, spioner, lönnmördare och annat hemskt under magins ålder, och därmed varför folk i gemen inledningsvis verkade mer rädda för dem än för konflikten de ville lösa. Det finns också kvar inspärrade vapensystem från magiålderns fall, vilka trots att de aldrig röjde upptäckter lyckades bevaras i fångenskap, och därmed svaren på hur de vaknade upp just i fortet i början av spelet - just dessa Androider var lovande exemplar av sina modeller för att integrera dessa vapen med magi.
+
+Grottan härifrån och fortsatt nedåt är frivilliga, och med efter denna frigörs Curiosity att gå med i laget.
 
 ### Portalcentrum
 
