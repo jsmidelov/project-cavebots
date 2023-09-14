@@ -1,16 +1,29 @@
 # The Golems
 
-The golems has its origins in the man-machine war, where they were state of the art operators fighting for the machines. Back in those days, they were simply the Elite Series, but due to arcane enhancements made during the Arcane Age, they came to be known as Golems, a fusion of magic and machine.
+## Origins
+
+The golems has its origins in the man-machine war and the fall of the first age, where they were state of the art operators fighting for the machines. That brought them and the androids on opposing sides. When the androids later vanished, they found their task completed.
+
+## Interstellar intermission
+
+In the wake of the first age, they found themselves commanded by the Stellar federation, and sent as vanguards in geomorphing projects around the solar system until "real people" could move in. This experience gave them ample knowledge of the system's various plants and moons, but also deep scars of the brutality of the Stellars.
+
+When all all planets and moons they held interest in were habitable enough to colonize, the Stellars sent the Golems to monitor the cradle world and send warning if civilization there was becoming advanced enough to reach beyond their gravitational pull (and thereby pose a threat to the federation again)
+
+## Arcane Age
+
+Instead, they organized a resistance on the cradle world and gathered the various realms for peace and reconcilliation. When they finally took their first steps towards orbital satellites and a first moon base, the Stellars discovered their "conspiracy", and struck down on the cradle world with a "bomb back to the stone age" campaign aimed at hunting down the Golems specifically. So the Golems went deep into hiding, and were never fully discovered.
+
+## Current Age
+
+The golems who managed to hide and wait out the Stellar's campaign now try to balance the world's constructive and destructive traits in hope of being able to defend the cradle world against a second campaign by the time they can once again strike out, or even deter such a second campaign from even being launched.
+
 In the Current Age, they serve as advisors and protectors of the most important men and women of the continent, in order to maintain stability. The current war among their clients has made clear this is not going too well, but they remain resolute in their conviction that they have the responsibility to resolve the situation.
-The recent unearthing of the Seven thus presents a multi-faceted threat. For one, they are androids, designed ages ago explicitly as enemies, and they can’t rule out the Seven would rip up these hostilities. For another, this presents a disruption to the structure of the continent, and this has already wrought chaos twice before. Last, as it becomes clear they wish to organize themselves and solve they problems the Golems own, they become a direct challenge to their position.
-This culminates in a direct confrontation between Golems and Androids at a summit. Both sides find they can collaborate for the same goal, and put the past behind them for a common future. This will create a fragile and uneasy, but fruitful, alliance for future chapters.
 
-## Från anteckningsblocket (jämka vid tillfälle)
+## In the time of our story
 
-Golems fanns redan under Maskinkriget, och första erans fall. Då låg androiderna och golems på olika sidor i konflikten, men när de förstnämnda försvann fann de senare sitt uppdrag fullbordat.
-I kölvattnet av Maskinkriget hamnade de under Solsystemsfederationens befäl och skickades som förtrupp i geomorfningsprojekt innan "riktiga människor" kunde ta över. Erfarenheten gav dem kunskap om solsystemets alla planeter och månad, men också djupa ärr om federationens grymhet.
-När federationen inte längre behövde dem åt dessa ändamål placerades de istället på vagvärlden för att monitorera dess tillstånd och varna federationen om civilisationen skulle kunna etablera sig extraterrestialt (och därigenom hota federationen igen).
-Istället organiserade de en motståndsrörelse på vaggvärlden och samlade de olika rikena för fred och försoning. När de till slut med trevande steg satte upp permanenta satelliter och börjat nå månbaser röjdes deras "konspiration", och federationen slog ner på vaggvärlden med en "bomba tillbaka till stenåldern"-kampanj i jakt på golemena. De lyckades aldrig upptäcka alla.
-De som lyckades hålla sig dolda och vänta ut federationens kampanj försöker nu balansera världen mellan konstruktiva och destruktiva drag, i hopp om att de dagen de kan nå stjärnorna också kan försvara vaggvärlden från en till kampanj från federationen, eller ännu hellre avskräcka en sådan kampanj dagen federationen åter känner sig hotad.
-Androidernas plötsliga återkomst utgör både ett hot och en möjlighet för Golemena. Å ena sidan driver deras handlingar på för hårt åt konstruktiv samstämmighet, som de frukar inneburit ännu en ödeläggelse. Å andra sidan har de förmodligen kunskap och verktyg som federationen förstår och avskräckts av, vilket vore ett äss i rockärmen.
-När de övertygats om att androiderna kan bidra till ett teknologiskt språng med sina gömmor ur fortet och förmåga att främja samarbete utan ett för tidigt rymdrace, gör de i slutändan gemensam sak med androiderna.
+The recent unearthing of the Androids thus presents both an opportunity and a threat. On one hand, their actions push towards rapid unity, which they fear would incur another Stellar campaign. On the other hand, they might hold knowledge and experience about tools lost during the Arcane age, which the Stellars would understand and be deterred by, providing an ace up their sleves.
+
+So over the corse of the story, the Golems will prod at the androids to understand how well they know the big picture and if they would be potential allies. The androids take this as mysterious taunting.
+
+This culminates in a direct confrontation between Golems and Androids at a summit. After some intense debate or fighting, both sides find they can collaborate for the same goal, and put the past behind them for a common future. This will create a fragile and uneasy, but fruitful, alliance for future chapters.
