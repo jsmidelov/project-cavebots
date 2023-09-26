@@ -5,6 +5,8 @@
     --concept-text-color: lightblue;
     --narrated-text-color: white;
     --narrated-textbox-color: darkblue;
+    --system-text-color: limegreen;
+    --system-textbox-color: black;
     --option-textbox-highlight: rgb(249, 249, 234);
 
 }
@@ -16,6 +18,8 @@
         --concept-text-color: lightblue;
         --narrated-text-color: white;
         --narrated-textbox-color: darkblue;
+        --system-text-color: limegreen;
+        --system-textbox-color: grey;
         --option-textbox-highlight: rgb(249, 249, 234);
     }
 }

@@ -14,11 +14,11 @@ p, ul {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-p.shouted{
+.shouted{
     font-size: x-large;
     font-variant: small-caps;
 }
-p.whispered{
+.whispered{
     font-size: x-small;
 }
 span.keyword{
@@ -33,6 +33,11 @@ p[tone='happy']::after{
 p[character="narrator"] {
     color: var(--narrated-text-color);
     background-color: var(--narrated-textbox-color);
+}
+p[character="system"] {
+    color: var(--system-text-color);
+    background-color: var(--system-textbox-color);
+    border: 3px solid var(--system-text-color);
 }
 p.thought {
     border: 2px dashed var(--base-text-color);
