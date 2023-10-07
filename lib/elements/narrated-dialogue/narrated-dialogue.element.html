@@ -1,11 +1,16 @@
+<!-- NOTE: While this looks pretty, there is no way currently to import this as a whole in the consuming html page -->
 <template id="narrated-dialogue">
     <style>
+        @import url('../../style/palette.css');
         p {
-            color: var(--text-color, blue);
-            background-color: var(--bg-color, pink);
+            color: --text-color;
+            background-color: --bg-color;
         }
     </style>
-    <p><slot></slot></p>
+    <div>
+        <span id="character"></span>
+        <p><slot></slot></p>
+    </div>
 </template>
 
 <script>
@@ -16,12 +21,20 @@
             this.attachShadow({ mode: 'open' }).appendChild(template);
         }
 
-        connectedCallback(){
-            const textColor = this.getAttribute('text-color');
-            const fontSize = this.getAttribute('font-size');
+        static get observedAttributes(){
+            return ['character'];
+        }
 
-            this.style.setProperty('--text-color', textColor);
-            this.style.setProperty('--font-size', fontSize);
+        attributeChangedCallback(property, oldValue, newValue){
+            console.log(`attributeChangedCallback changing property ${property} from ${oldValue} to ${newValue}`);
+            if( property === 'character'){
+                this.shadowRoot.querySelector('#character').innerHTML = newValue;
+            }
+        }
+
+        connectedCallback(){
+            const character = this.getAttribute('character');
+            this.shadowRoot.querySelector('#character').innerHTML = character;
         }
     }
     customElements.define('narrated-dialogue', NarratedDialogue);
