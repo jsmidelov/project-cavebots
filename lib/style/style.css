@@ -1,8 +1,27 @@
-@import url('./layout.css');
-@import url('./palette.css');
-@import url('./speech-boxes.css');
+@import './layout.css';
+@import './palette.css';
+@import './speech-boxes.css';
 
 * {
     margin: 0;
     padding: 0;
+}
+body {
+    background-color: var(--bg-color);
+}
+h1, h2, h3, h4, h5, h6 {
+    display: block;
+    max-width: 500px;
+    margin: 10px auto;
+    font-family: 'Courier New', Courier, monospace;
+    color: var(--base-text-color);
+}
+li{
+    list-style: none;
+}
+li label:hover{
+    cursor:pointer;
+}
+li:hover, li label:hover{
+    background-color: var(--option-textbox-highlight);
 }

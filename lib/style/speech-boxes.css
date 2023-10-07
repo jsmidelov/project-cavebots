@@ -1,17 +1,17 @@
-@import url('./palette.css');
-h1, h2, h3, h4, h5, h6 {
-    display: block;
-    max-width: 500px;
-    margin: 10px auto;
-    font-family: 'Courier New', Courier, monospace;
-}
-p, ul {
+@import './palette.css';
+
+speech-box, ul {
     color: var(--base-text-color);
     background-color: var(--base-textbox-color);
     max-width: 500px;
     padding: 10px;
     margin: 10px auto;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+speech-box {
+    display: block;
+    border: 1px solid var(--base-text-color);
 }
 
 .shouted{
@@ -27,29 +27,21 @@ span.keyword{
 span.concept{
     color: var(--concept-text-color);
 }
-p[tone='happy']::after{
+speech-box[tone='happy']::after{
     content: '😀';
 }
-p[character="narrator"] {
+speech-box[character="narrator"] {
     color: var(--narrated-text-color);
     background-color: var(--narrated-textbox-color);
 }
-p[character="system"] {
+speech-box[character="system"] {
     color: var(--system-text-color);
     background-color: var(--system-textbox-color);
     border: 3px solid var(--system-text-color);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
 }
-p.thought {
+speech-box.thought {
     border: 2px dashed var(--base-text-color);
     border-radius: 20px;
-}
-/* li:has(+input){ */
-li{
-    list-style: none;
-}
-li label:hover{
-    cursor:pointer;
-}
-li:hover, li label:hover{
-    background-color: var(--option-textbox-highlight);
 }
