@@ -9,18 +9,53 @@
 </head>
 <body>
     <h1>Morgon, 12-1 AV</h1>
-    <!-- I korta drag:
-    - När är de - tydligen en främmande tid bortom deras tideräkning (om så bara för att Sophia sade det 🙂)
-    - Vad är denna plats? I en fortifikation, härefter "Fortet", som ser ut att ha spelat stor roll i tiden som förflutit. Curiosity anar att denna plats är strategisk nyckelposition
-    - Varför når inte En de andra? De är för långt bort för befintlig kommunikation att nå.
-    - Så var är dem? Spridda åt krigande parters båda huvudstäder, samt hos neutral stadsstat som spelar ut de båda för egen vinning och säkerhet
-    - Vad var deras mål? Att få slut på sagda krig. Det kan hota Fortet om det tillåts fortsätta, och därmed tidigare En, Sophia och Andreis liv
-    - Så hur når de målet nu? Bästa vore att samla hela teamet och försöka igen.
-        De har hört ryktena om maktstrider hos alla parter, inte sant?
-        Det är de andra teammedlemmarna som närmar sig verkliga maktroller. Med lite stöd kan nästa gång bli annorlunda.
-    - Och kom tillbaka till fortet varje gång någon vunnits tillbaka. Curiosity vill inta och frita vad som än ligger bortom portarna.
-     -->
-     <h1>Kväll, 12-1 AV</h1>
-     <!-- De utvärderar vad som just hänt och lägger upp en enkel handlingsplan -->
+    <speech-box character="sophia">Så, nu är vi här. Jag hoppas de där svaren är värda besväret!</speech-box>
+    <speech-box character="curiosity">Det vågar jag lova. Det är inte utan skäl att jag vill delge de här, heller</speech-box>
+    <ul>
+        <li>
+            <input type="radio" id="when" name="answers" value="1">
+            <label for="when">Så, varför fungerade inte våra klockor? Vilket år är det?</label>
+            <speech-box character="curiosity">Ni måste ha sett det där ute: Vår ålder över. Därmed finns inget svar på den frågan så som vi förstår det. Dessutom har en hel ålder till kommit och gått medan vi sov. Vi är nu några decennier in i en tredje ålder.</speech-box>
+            <speech-box character="curiosity">Riktigt vad som hände däremellan vill ingen som fortfarande lever prata om.</speech-box>
+            <speech-box character="curiosity">Men vad jag kan tyda av denna sal, och dessa portar, tror jag svar ryms bakom dessa dörrar. Det kan vara sista platsen kvar som har det.</speech-box>
+        </li>
+        <li>
+            <input type="radio" id="fort" name="answers" value="2">
+            <label for="fort">Vad är det här för plats? Vad gör den så viktig för dig?</label>
+            <speech-box character="curiosity">Allt jag vet är att det är en fortifikation vi alla vaknade i, men inte somnade in i. Någon har flyttat oss hit, och hållit oss här i fullt fungerande skick en hel tidsålder, och det i sig gör den här platsen viktig.</speech-box>
+            <speech-box character="curiosity">Dessutom kommer patruller hit regelbundet och försöker inta denna sal med vad som än finns bakom dessa dörrar, som om vi behövde mer bevis.</speech-box>
+            <speech-box character="curiosity">I brist på bättre namn har vi kommit att namnge det "Fortet". Inte så kreativt, kanske, men kort och sakligt.</speech-box>
+        </li>
+        <li>
+            <input type="radio" id="team" name="answers" value="3">
+            <label for="team">Varför når jag inte de andra? Var är dem?</label>
+            <speech-box character="curiosity">Det kan egentligen bara du veta, men jag har några idéer. Satellitnätet vi lutade oss mot finns inte längre, vi är spridda över väldiga avstånd, och då du alltid kopplade oss men varit ute ur leken har vi saknat skäl att ha transpondrarna påslagna.</speech-box>
+            <speech-box character="curiosity">Det hade gynnat oss för oss samman igen, och jag är säker på att de varit överlyckliga att träffa er igen också.</speech-box>
+        </li>
+        <li>
+            <input type="radio" id="war" name="answers" value="3">
+            <label for="war">Är det krig där ute? Vem slåss och om vad?</label>
+            <speech-box character="curiosity">För att bespara er en, måhända nödvändig, historisk exposé, så slåss ett självutnämnt imperium mot ett utbrytarrike. Imperiet kan inte tolerera erkänna utbrytarna som självständiga, och riket vägrar återföras i imperiet.</speech-box>
+            <speech-box character="curiosity">Samtidigt säljer skärgårsstaden vapen åt båda sidor, och oklara blixtnedslag sker från klarblå himmel så snart någon sida kraftsamlar eller får ett övertag.</speech-box>
+            <speech-box character="curiosity">Vi gör just nu vårt yttersta för att få slut på den här konflikten. Tills alldelles nyss för att skydda er. Nu behövs åtminstone inte det längre!</speech-box>
+            <speech-box character="curiosity">Men målet behöver bestå: Två gånger har långt kaos gjort världen till rykande ruiner, och låter vi det här kaoset fortsätta kanske vi inte kommer tillbaka en trejde gång.</speech-box>
+            <speech-box character="curiosity">Och det var för det jag lät mig eskorteras: Imperiet och Riket var i tidiga överläggningar för fredssamtal. Med er fritagning kommer det bli svårt att få till skott en fortsättning...</speech-box>
+            <speech-box character="curiosity">Men det ska lyckas. Vi måste lyckas. Med er tillbaka - och informerade - har vi en chans.</speech-box>
+        </li>
+        <li>
+            <input type="radio" id="golems" name="answers" value="3">
+            <label for="golems">Hur är elitserien fortfarande vid liv? Varför bemöts de av människorna med sådan... respekt?</label>
+            <speech-box character="curiosity">Just det, med måste te sig märkligt. De kallas "Golems" nu för tiden, och är något av en rådgivande och medlande part.</speech-box>
+            <speech-box character="curiosity">Men deras råd får inte alltid de effekter de utger de för att få. Antingen vet de inte så mycket som de låtsas, eller så har de inte motiven de påstår sig ha.</speech-box>
+            <speech-box character="curiosity">Hur som helst kommer vi behöva deras hjälp. Jag är övertygad om att de inte litar på oss, och jag litar inte riktigt på dem heller.</speech-box>
+        </li>
+    </ul>
+    <h1>Kväll, 12-1 AV</h1>
+    <speech-box character="curiosity">Nu när ni är uppe och hoppas, och dessutom vet vad ni behöver, vill jag ge er en färdplan.</speech-box>
+    <speech-box character="curiosity">Hitta resten av våra kompanjoner, och få oss tillbaka till den enhet vi brukade vara.</speech-box>
+    <speech-box character="curiosity">Hjälp mig söka vad som än finns bakom dessa dörrar, och förstå allt ni kan av världen utanför, så vi är underrättade till tänderna och aldrig gör om misstaget vi gjorde nyss.</speech-box>
+    <speech-box character="curiosity">Och när vi är redo, möt våra före detta rivaler, som numera kallas Golems, och hitta ett sätt att slå våra påsar ihop.</speech-box>
+    <speech-box character="curiosity">Bara tillsammans, och tillsammans med dem, kan vi få slut på det här kaoset, och uppfylla den plikt vi lovade världen för så länge sedan: Att bekydda mänskligheten.</speech-box>
+    <navigation-footer previous="rescue"></navigation-footer>
 </body>
 </html>
