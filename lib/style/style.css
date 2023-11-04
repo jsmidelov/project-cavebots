@@ -3,18 +3,20 @@
 @import './speech-boxes.css';
 
 * {
-    margin: 0;
+    display: block;
+    max-width: 500px;
+    margin: 0 auto;
     padding: 0;
 }
 body {
     background-color: var(--bg-color);
 }
 h1, h2, h3, h4, h5, h6 {
-    display: block;
-    max-width: 500px;
-    margin: 10px auto;
     font-family: 'Courier New', Courier, monospace;
     color: var(--base-text-color);
+}
+h1:not(:first-child), h2:not(:first-child), h3:not(:first-child), h4:not(:first-child), h5:not(:first-child), h6:not(:first-child) {
+    margin: 2em auto 0.2em;
 }
 li{
     list-style: none;

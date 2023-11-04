@@ -1,5 +1,9 @@
 @import './palette.css';
 
+p {
+    max-width: 500px;
+    margin: 10px auto;
+}
 speech-box, ul {
     color: var(--base-text-color);
     background-color: var(--base-textbox-color);
