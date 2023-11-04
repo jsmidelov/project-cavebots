@@ -8,72 +8,66 @@
     <title>Act 1 - Persuit</title>
 </head>
 <body>
-      <h1>Kväll, 1-1 AV</h1>
+      <h1>Morgon, 2-1 AV</h1>
+      <speech-box character="narrator">När morgonens första gryningsljus gör platån synlig ser En att liften är redo. En knuffade fordonet på liftkranen, och tog ner de båda.</speech-box>
       <speech-box character="andrei">Jaha, vad kan vi säga om första dagen i Sophias nya era?</speech-box>
-      <speech-box character="sophia">Jag och Andrei har som du märkt tagit oss.. tja, hit. Så, En, har du upptäckt någonting idag?</speech-box>
+      <speech-box character="sophia">Snälla... Så, En, har du upptäckt någonting där uppe under natten?</speech-box>
       <ul>
       <li>
          <input type="radio" id="evening1views" name="evening1" value="1">
          <label for="evening1views">Det finns en hel del fina utsikter och träd i trakten!</label>
+         <speech-box character="sophia">Kul, men hur hjälper det oss?</speech-box>
+         <speech-box character="andrei">Hah, för en gång skull något jag kan. Detaljerade terrängkartor kan vara guld värda för att planera operationer i framtiden. Toppen, En, fortsätt kartlägg!</speech-box>
       </li>
       <li>
          <input type="radio" id="evening1junk" name="evening1" value="2">
          <label for="evening1junk">Jag fann en del metallskrot som ligger utspritt över fältet.</label>
+         <speech-box character="sophia">Det låter inte som något som borde finnas där.</speech-box>
+         <speech-box character="andrei">Men det påminner om något människorna som tog Curio kunnat använda, eller hur?</speech-box>
+         <speech-box character="sophia">Det gör det. En, om du hittar mer, kan du ta det tillbaka? Vi kanske kan lära oss något av verktygen dessa människor använder.</speech-box>
       </li>
       <li>
          <input type="radio" id="evening1roads" name="evening1" value="3">
          <label for="evening1roads">Det verkar finnas någon form av vägar. Mest övervuxna grusvägar, men ändå</label>
+         <speech-box character="sophia">Vilket ändå antyder att någon velat röra sig förbi här regelbundet, mot någonting. Även om det var länge sedan.</speech-box>
+         <speech-box character="andrei">Det hjälper däremot inte oss frakta särskilt mycket just nu, om vi inte rustar upp vägarna medan vi rör oss.</speech-box>
       </li>
       </ul>
-      <!-- Vid val 1 -->
-      <speech-box character="sophia">Kul, men hur hjälper det oss?</speech-box>
-      <speech-box character="andrei">Hah, för en gång skull något jag kan. Detaljerade terrängkartor kan vara guld värda för att planera operationer i framtiden. Toppen, En, fortsätt kartlägg!</speech-box>
-      <!-- Vid val 2 -->
-      <speech-box character="sophia">Det låter inte som något som borde finnas där.</speech-box>
-      <speech-box character="andrei">Men det påminner om något människorna som tog Curiosity kunnat använda, eller hur?</speech-box>
-      <speech-box character="sophia">Det gör det. En, om du hittar mer, kan du ta det tillbaka? Vi kanske kan lära oss något av verktygen dessa människor använder.</speech-box>
-      <!-- Vid val 3 -->
-      <speech-box character="sophia">Vilket ändå antyder att någon velat röra sig förbi här regelbundet, mot någonting. Även om det var länge sedan.</speech-box>
-      <speech-box character="andrei">Det hjälper däremot inte oss frakta särskilt mycket just nu, om vi inte rustar upp vägarna medan vi rör oss.</speech-box>
-      <!-- Fortsättning -->
-      <speech-box character="En">Det var allt jag fann idag</speech-box>
-      <speech-box character="sophia">Då laddar vi batterierna för morgondagen, då.</speech-box>
+      <speech-box character="En">Det var allt jag såg där uppifrån.</speech-box>
+      <speech-box character="sophia">Bra spanat.</speech-box>
 
-      <h1>Morgon, 2-1 AV</h1>
-      <speech-box character="sophia">En, vi siktar mot att ta följa Curiositys signal och slå läger i kväll. Med de här...vägarna lär vi inte komma långt, så se gärna om och möt upp oss i skymningen.</speech-box>
+      
+      <speech-box character="sophia">En, jag och Andrei kom överens om att köra - eller dra, om så krävs - oss i skift. Med de här "vägarna" lär det ha en maka takt, så se dig omkring och stämma av med oss i skymningen vad du ser?</speech-box>
 
       <h1>Kväll, 2-1 AV</h1>
-      <speech-box character="sophia">Vi börjar tappa kontakt med Fortet, så jag tror vi vet varför vi inte kan nå dem andra. Det finns helt enkelt varken signal där de är, eller från oss till dem.</speech-box>
+      <speech-box character="sophia">Jag har tänkt lite under dagen, och jag anar varför vi inte kan nå dem andra: Det finns helt enkelt varken signal där de är, eller från oss till dem.</speech-box>
+      <speech-box character="andrei">Får vi tillfälle vore det klokt att återställa signaltornen. För att inte tala om att förbättra vägarna.</speech-box>
       <speech-box character="sophia">Med det sagt: En, någon ny upptäckt idag?</speech-box>
-      <speech-box character="en">Jag har hittat flera små byar längsmed vägen. Men det är konstigt med dem.</speech-box>
+      <speech-box character="en">Jag har hittat flera små byar längsmed vägen. Men det är något konstigt med dem.</speech-box>
       <speech-box character="andrei">Jag anar var det här är på väg. Lyckades du prata med dem du fann där? Kunde de berätta något?</speech-box>
       <ul>
       <li>
          <input type="radio" id="evening2repairs" name="evening2" value="1">
          <label for="evening2repairs">En av byarna ville att jag skulle hjälpa dem reparera tak och väggar.</label>
+         <speech-box character="sophia">Pratar vi bara underhåll? Nej, inte om det var flera hus.</speech-box>
+         <speech-box character="andrei">Men de har ännu hopp om reparationer och återställning.</speech-box>
       </li>
       <li>
          <input type="radio" id="evening2farming" name="evening2" value="2">
          <label for="evening2farming">En annan by behövde hjälp att så sina fält.</label>
+         <speech-box character="sophia">Så det är årstiden för att så, alltså. Vi kan anta att det är vår. Bra, ger oss tid att bereda oss på vintern.</speech-box>
+         <speech-box character="andrei">Men de behövde hjälp med det. Alltså kommer de inte skörda i höst som de brukat. De kommer få en svår vinter om ingenting förändras.</speech-box>
       </li>
       <li>
          <input type="radio" id="evening2mess" name="evening2" value="3">
          <label for="evening2mess">I den tredje byn låg saker huller om buller.</label>
+         <speech-box character="andrei">Nästan som om de släppt vad än de hade för händer, eller hur?</speech-box>
+         <speech-box character="sophia">Du menar att...</speech-box>
+         <speech-box character="andrei">... de sett främlingar komma från horisonten förr, och varje gång har män gått därifrån med dem och aldrig kommit tillbaka.</speech-box>
       </li>
       </ul>
-      <!-- Vid val 1 -->
-      <speech-box character="sophia">Pratar vi bara underhåll? Nej, inte om det var flera hus.</speech-box>
-      <speech-box character="andrei">Men de har ännu hopp om reparationer och återställning.</speech-box>
-      <!-- Vid val 2 -->
-      <speech-box character="sophia">Så det är årstiden för att så, alltså. Vi kan anta att det är vår. Bra, ger oss tid att bereda oss på vintern.</speech-box>
-      <speech-box character="andrei">Men de behövde hjälp med det. Alltså kommer de inte skörda i höst som de brukat. De kommer få en svår vinter om ingenting förändras.</speech-box>
-      <!-- Vid val 3 -->
-      <speech-box character="andrei">Nästan som om de släppt vad än de hade för händer, eller hur?</speech-box>
-      <speech-box character="sophia">Du menar att...</speech-box>
-      <speech-box character="andrei">... de sett främlingar komma från horisonten förr, och varje gång har män gått därifrån med dem och inte återvänt.</speech-box>
-      <!-- Fortsättning -->
       <speech-box character="En">Det var allt jag fann idag</speech-box>
-      <speech-box character="andrei">Det här är oroande. Det du beskriver tyder på att det saknas vuxna män på landsbygden. Det kan bara betyda en sak... kriget är här, och har varit här länge.</speech-box>
+      <speech-box character="andrei">Det här är oroande. Det du beskriver tyder på att det saknas vuxna män på landsbygden. Det kan bara betyda en sak... det är krig här, och har varit det länge.</speech-box>
       <h1>Kväll, 3-1 AV</h1>
       <speech-box character="sophia">Vi kan se något som ser ut som ett lägeer på horisonten, vi kommer nog fram i morgon. En, har du upptäckt något?</speech-box>
       <speech-box character="andrei">Sophia, har du sett Ens blick sedan kvällen? Jag kan garantera att En har sett något, frågan är om vi vill veta av det.</speech-box>

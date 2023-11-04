@@ -6,80 +6,70 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="import" href="../lib/elements/narrated-dialogue/narrated-dialogue.element.html" />
     <link rel="stylesheet" href="../../lib/style/style.css" />
+    <script defer src="../../lib/elements/navigation-footer.js"></script>
+    <script defer src="../../lib/elements/speech-box.js"></script>
     <title>Kapitel 3 - Första dagen</title>
 </head>
 <body>
     <h1>Kapitel 3 - Första dagen</h1>
-    <speech-box character="narrator">Morgonstund mötte En, Sophia och Andrei när de klev ut genom portens nya springa. Ett tiotal meter framför dem sträckte sig en plan yta, fylld till vidden av övergivna pjäser med stora kanoner.</speech-box>
-    <speech-box character="narrator">Bortom dem slutade platån i branta kanter. Ingen av dem märkte särskilt av det, då vyn bortom avkanten upptog deras processorer.</speech-box>
+    <speech-box character="narrator">Morgonstund mötte En, Sophia och Andrei när de sprang ut genom portens nya öppning. Ett tiotal meter framför dem sträckte sig en platå, fylld till vidden av övergivna pjäser med stora kanoner.</speech-box>
+    <speech-box character="narrator">Bortom dem slutade platån i branta kanter. Ingen av dem märkte särskilt av det, då vyn bortom avkanten tog deras uppmärksamhet.</speech-box>
     <speech-box character="narrator">Ett grönskande landskap av ängmarker och skogsdungar bredde ut sig så långt deras linser kunde fånga.</speech-box>
     <speech-box character="andrei">Vad i hela friden tittar jag på? Vem planerade den här röran? Träden står ju huller om buller, och gräset är vildvuxet.</speech-box>
     <speech-box character="sophia">Ingen har nog planerat eller ordnat någonting här på väldigt länge. Vad du ser är... spontant. Organiskt. Eller som du sade, "Vilt".</speech-box>
-    <speech-box character="andrei">Men hur ska vi hitta Curiosity här? Vi kan inte använda ett iota av vad vi vaknade med, och vem vet vad vi lämnar efter oss där inne.</speech-box>
-    <speech-box character="sophia">Säg inte det. Vi fick mer än kartor från den tiden. Men Curiosity hade rätt, vi måste hitta svaret på "var" och "när" vi är själva.</speech-box>
-    <speech-box character="andrei">...</speech-box>
+    <speech-box character="andrei">Men hur ska vi hitta Curio här? Vi kan inte använda ett iota av vad vi vaknade med, och vem vet vad vi lämnar efter oss där inne.</speech-box>
+    <speech-box character="sophia">Säg inte det. Vi fick mer än kartor från den tiden. Men han hade rätt, vi måste hitta svaret på hur världen ser ut och fungerar nu förtiden.</speech-box>
+    <speech-box character="andrei">Men var börjar vi ens?</speech-box>
     <ul>
         <li>
             <input type="radio" id="e1b1o1" name="e1b1" value="1">
             <label for="e1b1o1">Ingen tid att förlora, kan ju finnas människor kvar att rädda!</label>
+            <speech-box character="sophia">Apropå tid...</speech-box>
         </li>
         <li>
             <input type="radio" id="e1b1o2" name="e1b1" value="2">
             <label for="e1b1o2">Hellre förr än senare, kartorna lär inte rita sig själva.</label>
+            <speech-box character="sophia">Innan vi pratar om rum, hoppas jag ni ursäktar om jag pratar om tid.</speech-box>
         </li>
         <li>
             <input type="radio" id="e1b1o3" name="e1b1" value="3">
             <label for="e1b1o3">Tror inte vi har några andra alternativ.</label>
+            <speech-box character="sophia">Inte nu, i alla fall. På tal om "nu"...</speech-box>
         </li>
     </ul>
-    <!-- Vid val 1 -->
-    <speech-box character="sophia">Apropå tid...</speech-box>
-    <!-- Vid val 2 -->
-    <speech-box character="sophia">Innan vi besvarar "var", får jag rikta vår uppmärksamhet till "när"?</speech-box>
-    <!-- Vid val 3 -->
-    <speech-box character="sophia">Inte nu, i alla fall. På tal om "nu"...</speech-box>
-    <!-- Fortsättning -->
-    <speech-box character="sophia">Visar era klockor också någon obegriplig tid?</speech-box>
-    <!-- Vad heter "yaw", dvs kamerors y-rotation, på svenska? -->
-    <speech-box character="narrator">Andrei och En roterade sina nackar vertikalt</speech-box>
+    <speech-box character="sophia">Visar era klockor också obegripligheter?</speech-box>
+    <speech-box character="narrator">Andrei och En böjer sina nackar i ett nickade</speech-box>
     <speech-box character="sophia">I så fall föreslår jag att vi lagrar tiden i minnet att räkna på senare, och startar om klockan.</speech-box>
     <speech-box character="sophia">Låt denna morgon vara första dagen av första året i vaktens år.</speech-box>
 
-    <h2>Morgon, 1-1 AV</h2>
-
+    <h2>Morgon, 1-1 Anno Vigilanti</h2>
     <speech-box character="andrei">"Vaktens år"? Lite väl pretentiöst, väl? Och var tog månaderna vägen?</speech-box>
-    <speech-box character="sophia">Vi vet varken var eller när vi är. Låt oss bli varse idag hur lång tid, tja, "idag" är, och hur många dagar ett år är, innan vi grupperar dem. Med lite tur har någon redan löst den biten åt oss.</speech-box>
-    <speech-box character="andrei">Det låter väl vettigt. Så... var börjar vi ens? Det här landskapet är ju...</speech-box>
-    <speech-box character="narrator">Andrei hinner knappt skicka sista paketet ur sitt meddelande när en högljudd smäll slår i taket på deras mikrofoner.</speech-box>
-    <speech-box character="andrei">Var det inte en sådan vi hörde när vi vaknade? Jag tror någon beskjuter oss! Vi måste spåra roboten tillbaka till sin plattform och säkra bunkern snarast!</speech-box>
-    <ul>
-        <li>
-            <input type="radio" id="e1b2o1" name="e1b2" value="1">
-            <label for="e1b2o1">Bra idé, vem kan sova med dem som väckarklocka?</label>
-        </li>
-        <li>
-            <input type="radio" id="e1b2o2" name="e1b2" value="2">
-            <label for="e1b2o2">Så gott som något, finns inget annat som sticker ut här.</label>
-        </li>
-        <li>
-            <input type="radio" id="e1b2o3" name="e1b2" value="3">
-            <label for="e1b2o3">Gör det ni, jag spanar runt tills skymningen och möter upp er då.</label>
-        </li>
-    </ul>
-    <speech-box character="sophia">Innan du gör något annat, kan du bara ägna dagen åt att hitta eller rensa upp en väg ner dit från den här platån?</speech-box>
-    <hr />
+    <speech-box character="sophia">Vi vet inte vilken värld vi är på, och därmed inte hur lång tid den behöver för att rotera runt vare sig sin axel eller sin sol, så låt oss först lära oss det innan vi grupperar eller delar upp dagar och år. Med lite tur har någon redan löst den biten åt oss.</speech-box>
+    <speech-box character="andrei">Det låter väl vettigt. Så... var börjar vi leta? Det här landskapet är ju oändligt.</speech-box>
+    <speech-box character="sophia">Tja, vi kan ju ägna dagen åt att hitta eller rensa upp en väg ner dit från den här platån?</speech-box>
+    <p>En "tutorial" för utforskandet följer, där spelaren på denna tydligt avgränsade yta har som mål att hitta:
+        <ol>
+            <li>En väg ner</li>
+            <li>Hur kanonerna kom upp</li>
+        </ul>
+    </p>
+    <p>En hittar slänt nedför bergskanten</p>
+    <speech-box character="en">Så det finns en väg ner. Sophia, du vill se det här!</speech-box>
+    <speech-box character="en">Den ser ut som en rejäl trapats, men en tacksam bakdörr för en vandrare eller infiltratör.</speech-box>
+    <p>En inspekterar kanonerna</p>
+    <speech-box character="en" class="thought">Det här måste ha skapat dörröppningen. Curio eller Tem hade säkert kunnat förklara hur de här funkar...</speech-box>
+    <p>En hittar kran vid platåns kant</p>
+    <speech-box character="en">Du, Andrei, kolla här! Det här måste ha varit hur soldaterna och kanonerna kom upp hit. Den borde kunna användas som hiss!</speech-box>
+    <speech-box character="en">Och den verkar kontrolleras från botten. Om vi kunde flytta den kontrollen hit upp hade vi haft en försvarbar kontroll över vem vi släpper in.</speech-box>
 
     <h2>Kväll, 1-1 AV</h2>
-
-<!-- NOTE: Kopierat rakt ur Scrivener, behöver skrivas om för att vara istället för att beskriva manus -->
-    <!-- <speech-box character="narrator">När de kommer ur sin nyfunna bunker finner de först små spår, som trasiga byggnader, slitna vägar, oroliga människor och en avsaknad av män i “vuxen” ålder, men ganska snart börjar de se utslaget och nedskjutet materiel, och till slut finner de en karavan de följer till en frontlinje. När insikten om hur dagens människor slåss inser de att de måste lösa konflikten innan den spiller närmare bunkern.</speech-box>
-    <speech-box>Det blir också tydligt att samtidens slagsmål till trots skulle de kunna dominera båda parter om de var fulltaliga, medan de åtskilda vore lätt byte för någon krigsherre. De måste alltså hålla låg profil, hitta resten av laget, söka sig in i de politiska leden, för att till slut avsluta konflikten på något sätt.</speech-box>
-    <speech-box class="shouted">I bästa fall kan de ena sidorna bakom sig för sitt större mål.</speech-box>
-    <speech-box tone="happy">I något medelfall kan de åtminstone spela ut sidorna mot varandra för att binda båda till sig själva.</speech-box>
-    <speech-box>I nödfall måste de ta parti och slåss till någon sida är ute.</speech-box>
-    <speech-box class="whispered">I värsta fall står de handfallna att se på när de nedkämpa varandra medan de bygger sin egen styrka, tills de står ensamma kvar.</speech-box> 
-    <speech-box>Första steget är att förstå hur världen ser ut, vilka sidorna som krigar är, och varför de krigar. Kriget ser ut att bestå av två imperier på var sin sida av en front som sträcker sig hela vägen från bunkern till havet. Båda imperier drivs från sin kärna, med vasaller och kolonier som mest följer. Dessutom finns en neutral stat på en skärgård nära kusten båda vill få med sig, samt en hotfull nomadisk hord bortom bergen. De hör också mellan raderna att märkliga varelser har skymtats i alla dessa som borde vara androider.</speech-box>
-    <speech-box>Hoppfulla bestämmer de sig därför att besöka dessa fyra i hopp att stärka de egna leden.</speech-box> -->
+    <speech-box character="sophia">Så vi har en stig, och en kran. Hade Curio förts längsmed stigen hade vi sett honom, så han måste ha letts ner med kranen.</speech-box>
+    <speech-box character="andrei">Den här platån vore dessutom lätt att försvara, om vi kan ta kontroll över kranen och spärra av stigen. Det vore ett utmärkt högkvarter.</speech-box>
+    <speech-box character="andrei">Kan vi bessutom återställa portarna... det här är i allt väsentligt ett fort!</speech-box>
+    <speech-box character="sophia">Jag fann ett fungerande fordon bland kanonerna. Med lite tur kan vi ta ikapp på Curio med den... i morgon.</speech-box>
+    <speech-box character="andrei">I morgon? Hans eskort lär hinna ifrån oss vem vet hur långt på den tiden!</speech-box>
+    <speech-box character="sophia">Jag räknade med att de saknar upplysta vägar, och dessutom behöver sömn...</speech-box>
+    <speech-box character="sophia">Men du har nog rätt. Låt oss utnyttja natten för att ta kontroll över hissen. En, kan du stanna med fordonet tills vi kan krana ner dig med den?</speech-box>
     <navigation-footer previous="chapter-2" next="persuit"></navigation-footer>
 </body>
 </html>

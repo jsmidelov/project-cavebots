@@ -24,7 +24,7 @@
     <speech-box character="system">Startar tal-till-text generator.</speech-box>
     <speech-box character="system">Startar språkgeneratormodell.</speech-box>
     <speech-box character="system">Startar text-till-tal generator.</speech-box>
-    <speech-box character="system">God morgon, En! Det är den ¡”:‰¢ den ∑√ {{MM}} ˇÇ«¯</speech-box>
+    <speech-box character="system">God morgon, En! Det är den {{DAG}} i {{MÅNAD}} {{ÅR}}</speech-box>
     <ul>
         <li>
             <input type="radio" id="branch1option1" name="branch1" value="1">
@@ -41,9 +41,9 @@
     </ul>
     <speech-box character="narrator">En såg sig omkring, och fann sig i en glascylinder. En prövade att flytta armar och ben, och flyttade de helt motståndslöst.</speech-box>
     <speech-box character="narrator">Med kunskapen att det var utan bekymmer att röra sig prövade En att känna sig fram. Ytan framför En hade inga räflor, inga ojämnheter, och utgjorde en båge framför En från topp till tå</speech-box>
-    <speech-box character="en" class="thought">Den här skärmen, kapseln, eller vad det än är, måste ha hållit tätt sedan jag lades i eller bakom den.</speech-box>
-    <speech-box character="en" class="thought">Om den fanns för min skull borde det finnas något vis att ta sig ut på.</speech-box>
-    <speech-box character="narrator">Efter en stunds letande fann en två knappar vid skärmens under- och ovansida.</speech-box>
+    <speech-box character="en" class="thought">Den här skärmen, kapseln, eller vad det än är, måste ha hållit tätt sedan jag lades... i en kapsel? Eller är jag bakom en skärm?</speech-box>
+    <speech-box character="en" class="thought">Om den fanns för min skull borde det finnas något vis jag kan ta mig ut på.</speech-box>
+    <speech-box character="narrator">Efter en stunds letande fann En två knappar vid skärmens under- och ovansida.</speech-box>
     <!-- Här har jag några tekniska roligheter. Likt radioknapparna bör checkboxarna slås av när en valts,
         men vid fel val ska man komma tillbaka hit, och den felaktiga ska vara dold.
         När alla tre bockats av går man vidare (för att, hey, det är checkboxar!) -->
@@ -71,20 +71,19 @@
         </li>
     </ul>
     <h2>"Barks" 1-2</h2>
-    <!-- Fortsättning -->
     <speech-box character="narrator">
         Sju kapslar likt den En steg ut ur sträcker sig längsmed en långsida av rummet.
-        Ens är förstås öppen, men det är fyra andra också.</speech-box>
+        Ens är förstås öppen, men det är fyra andra också. Endast två är fortfarande stängda.</speech-box>
     <h2>Scen 2</h2>
-    <speech-box character="narrator">
-        Enbart två är fortfarande stängda. Båda har stora etiketter skriva på skärmarna,
-        cirka en och halv meter från botten. "Sophia" lyder den ena. "Andrei" lyder den andra.</speech-box>
+    <speech-box character="en" class="thought">Det kanske vore klokt att se sig omkring...</speech-box>
     <ul>
         <li>
             <input type="checkbox" id="temperantia" name="saveFriend" value="temperantia">
             <label for="temperantia">Kika på kapseln med etiketten "Temperantia" 👀</label>
-            <speech-box character="En" class="thought">Den här kapseln har detonerats inifrån.
-                Damm och spindelväv har samlats på insidan.</speech-box>
+            <speech-box character="En" class="thought">Glassplitter ligger strödd runt kapseln.
+                Damm och spindelväv har blandats med aska och krut inuti den.</speech-box>
+                <speech-box character="En" class="thought">Den här kapseln har detonerats inifrån.
+                    Hur fick Tem ens tag i sprängämnen i en kapsel?</speech-box>
         </li>
         <li>
             <input type="checkbox" id="sophia" name="saveFriend" value="sophia">
@@ -101,7 +100,7 @@
             <speech-box character="En" class="thought">Den här kapseln har lirkats upp från utsidan.
                 Vem som än gjorde det hade inte brottom. Dammet är tjockt på glaset.</speech-box>
             <speech-box character="narrator">Med ett finger klottrar En i glasdammet</speech-box>
-            <speech-box>"Hej! :)"</speech-box>
+            <speech-box>"Välkommen ut, Forti! :)"</speech-box>
         </li>
         <li>
             <input type="checkbox" id="andrei" name="saveFriend" value="andrei">
@@ -124,6 +123,9 @@
             <speech-box character="En" class="thought">
                 Den här kapseln var försiktigt öppnad, och har börjat samla damm.
             </speech-box>
+            <speech-box character="En" class="thought">
+                Någon hjälpte nog Festi ut...
+            </speech-box>
         </li>
         <li>
             <input type="checkbox" id="curiosity" name="saveFriend" value="curiosity">
@@ -131,20 +133,24 @@
             <speech-box character="En" class="thought">
                 Den här kapselns lucka saknar damm, och vad de än fylldes av finns kvar på botten.
             </speech-box>
+            <speech-box character="En" class="thought">
+                Om den här höll Curio måste han ha tagit sig ut själv på fem blanka.
+            </speech-box>
         </li>
     </ul>
+    
     <speech-box character="sophia">Andrei! Det var inte igår!</speech-box>
     <speech-box character="sophia">...tror jag!</speech-box>
     <speech-box character="andrei">Ingen aning, men kul att se er båda igen oavsett.</speech-box>
     <speech-box character="narrator">Den nyåterförenade trion såg sig omkring i rummet. </speech-box>
     <speech-box character="sophia">Om vi var i dessa tre kapslar, och det är fyra öppna...</speech-box>
-    <!-- Om En öppnade de andra luckorna -->
+    <p>Om En öppnade de andra luckorna</p>
     <speech-box character="En">Det är de andras, alla utom Curiosity är borta sedan länge.</speech-box>
     <speech-box character="andrei">Fotspåren är gamla, men de leder åt samma håll.</speech-box>
-    <!-- Om En inte öppnade de andra luckorna -->
-    <speech-box character="sophia">Det måste vara de andras, alla utom Curiositys samlar damm, så de är nog borta sedan länge.</speech-box>
+    <p>Om En inte öppnade de andra luckorna</p>
+    <speech-box character="sophia">Det måste vara de andras, alla utom Curios samlar damm, så de är nog borta sedan länge.</speech-box>
     <speech-box character="sophia">Vi kan inte göra mycket annat än att följa dem. Vad sägs?</speech-box>
-    <speech-box character="narrator">Andrei och En utförde gesten "nicka", och de tre följde fotspåren i hopp om att finna sina fyra kompanioner.</speech-box>
+    <speech-box character="narrator">Andrei och En nickade, och de tre följde fotspåren i hopp om att finna sina fyra kompanioner.</speech-box>
     <h2>"Barks" huvudssal</h2>
     <speech-box character="sophia">Fotspåren fortsätter hitåt</speech-box>
     <speech-box character="andrei">Äntligen, en ljuskälla.</speech-box>
@@ -152,7 +158,7 @@
     <speech-box character="andrei">Hörni, ser ni? Solljus!</speech-box>
     <speech-box character="sophia">Men just vad är det här för rum?</speech-box>
     <speech-box character="sophia">Någon form av piedestaler? Skyltar, men... jag kan inte läsa det här. Hur är...?</speech-box>
-    <speech-box character="???">Slutligen äro de sömnade vakna! Vi började tro att vi hade eder förlorade.</speech-box>
+    <speech-box character="???">Slutligen vaknar sovarna! Vi började tro att vi hade eder förlorade.</speech-box>
     <navigation-footer next="chapter-2"></navigation-footer>
 </body>
 </html>
