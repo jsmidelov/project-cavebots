@@ -8,6 +8,10 @@ As a person, she is caring and joyful, and functions much like a mother figure o
 
 She has been acting out roles for so long she is starting to find it difficult knowing who _she_ is and who is a character she is playing
 
+## Story arc
+
+Her worry for Curio makes her impulsively and rashly act in order to free him, making an unknown bad situation worse and on her, in spite of her best intentions. Along the journey, she struggles with and learns how to resist being carried away, and think before she acts. Towards the end, En is stuck in a similiarly tricky situation, and because she manages to stop and think things through with the family, they successfully resolve the situation.
+
 ## Overworld
 
 She is also equipped with advanced optical camouflage, allowing her to blend seamlessly into her environment. Sophia’s stealth and hacking abilities make her an invaluable asset in the team's missions, as she is able to access critical information and disable security systems to allow her team members to move through enemy-controlled areas unseen.

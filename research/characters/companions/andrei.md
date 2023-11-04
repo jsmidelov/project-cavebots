@@ -8,6 +8,10 @@ In relation to the other androids, Andrei is seen as a mentor and leader. In man
 
 His prowess gives him a tendency to underestimate the threat a forced solution bring to the others, however, and so is prone to solve problems with brute force.
 
+## Story arc
+
+Because Sophia's mad dash to rescue Curio tied nicely with his way solving things, he let it run without challenge. He struggles with the blame of it, and how to resolve problems in smarter ways. Temperantias kampanj lär honom om att inspirera och övertyga med talets gåva (och inser att familjen alltid sökt det ur honom), Festina lär honom om att motivera med vänuppskattning, och Fortitudo om hur erbjuden hjälp kan återbetala sig när man minst väntar sig det. När En finner sig i knipa i slutet använder han alla tre lärdomar för att förfina Sophias strategi och utföra den helt fredligt.
+
 ## Overworld
 
 His martial excellence makes him fearless, and impossible to put off balance, which makes him an excellent guard or raider.

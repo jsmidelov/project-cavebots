@@ -10,7 +10,7 @@ In the team, she holds something of a “little sister” role. Usually cheerful
 
 Her abilities provides her a preference for places where she can see a distance ahead, such as fields, subsurface or on the top of towers or roof tops. This generally give us scouting tasks.
 
-## Combat
+## Combat role
 
 In combat she is the first to be at the right place, and generally launches into flurries of stylish attacks while the slower actors ready up and explore for weaknesses. When the others are ready, she moves into an interception strategy to prevent the others from being interrupted.
 
