@@ -1,6 +1,11 @@
 # Andrei
 
-Andrei (of Ancient Greek for courage) specializes in heavy weapons and artillery. He is equipped with a wide array of weapons, ranging from energy rifles to rocket launchers. He is also programmed with advanced tactical skills, allowing him to provide cover fire for his team members and strike at key targets with precision.
+Andrei specializes in heavy weapons and artillery. He is equipped with a wide array of weapons, ranging from energy rifles to rocket launchers. He is also programmed with advanced tactical skills, allowing him to provide cover fire for his team members and strike at key targets with precision.
+
+## Names
+
+Formal name: Andrei (of Ancient Greek for courage)
+Called by the team: Pow (because "Pa", but explosions 😄)
 
 ## Personality
 

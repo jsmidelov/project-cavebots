@@ -1,6 +1,10 @@
 # Sophia
 
-Sophia (of Ancient Greek for Wisdom) specializes in stealth and infiltration. She is programmed with advanced hacking skills and is able to infiltrate even the most heavily fortified systems with ease. In a world bereft of computer systems, this may seem less than ideal, but (assuming) the brain functions much like the ancient machines, it creates an ability to read and manipulate people, animal and machine alike.
+Sophia specializes in stealth and infiltration. She is programmed with advanced hacking skills and is able to infiltrate even the most heavily fortified systems with ease. In a world bereft of computer systems, this may seem less than ideal, but (assuming) the brain functions much like the ancient machines, it creates an ability to read and manipulate people, animal and machine alike.
+
+## Names
+Formal name: Sophia (of Ancient Greek for Wisdom)
+Called by team: Mom
 
 ## Personality
 

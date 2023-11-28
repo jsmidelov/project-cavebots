@@ -2,6 +2,11 @@
 
 Fortitudo (of latin, Justice) is programmed with advanced medical knowledge, advanced cybernetic repair and maintenance, and is equipped with advanced medical tools and equipment. This makes her adept at repairing and maintaining the other androids in the team, as well as providing poisons and hacks.
 
+## Names
+
+Formal name: Fortitudo (of latin, Justice)
+Called by the team: Forti
+
 ## Personality
 
 Her coded personality is something of a medical nerd, clearly desensitized to how others may find it creepy, but also very enthusiastic about healing others. She views the damage dealing more as a necessary evil to be avoided as possible, but quick and ideally painless once it has begun. As such, she finds Pacem methods very agreeable, Festina’s speed as useful as freighting, all while encouraging Temperantia and Andrei to act with restraint.
@@ -10,7 +15,7 @@ Within the team, she holds something of a bigger sister figure, caring bordering
 
 ## Overworld
 
-In the world the Seven were made for, she was provided a librarian-level knowledge of ailments that very technical environment could cause. In this rewildered world, she has had to grow into the resident botanist and alchemist.
+In the world the team were made for, she was provided a librarian-level knowledge of ailments that very technical environment could cause. In this rewildered world, she has had to grow into the resident botanist and alchemist.
 
 ## Combat role
 

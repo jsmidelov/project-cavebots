@@ -1,6 +1,11 @@
-# Temperantia (eller "Tem")
+# Temperantia
 
 Temperantia specializes in demolition and explosives. He is programmed with advanced knowledge of engineering and chemistry, and is equipped with a wide variety of tools and equipment for dismantling and destroying structures.
+
+## Names
+
+Formal name: Temperantia (classical greek for temperance)
+Called by the team: Tem
 
 ## Personality
 

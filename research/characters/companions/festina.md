@@ -2,6 +2,10 @@
 
 Festina specializes in speed and agility. She is equipped with advanced propulsion systems that allow her to move at incredible speeds and make dancelike acrobatic maneuvers, coming off as a fish in the water even while airborne or on the ground.
 
+## Names
+Formal name: Festina (lat. of "hurry")
+Called by team: Festi
+
 ## Personality
 
 In the team, she holds something of a “little sister” role. Usually cheerful and one to lighten the mood with a joke, and an intentional disinterest in political details make her the moral compass of the team. Her cheerfulness can sometimes go a bit too far, however, and she can come off as insensitive to serious situations or tragedy. This is possibly to mask some inner turmoil she would rather not deal with.

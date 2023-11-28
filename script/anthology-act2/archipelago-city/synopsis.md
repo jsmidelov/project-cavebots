@@ -4,18 +4,21 @@
 
 ### Del 1
 
-* Vårt lag följer floden mot det kluvna berget, genom bergspassagen, där de snubblar över en metropol vid flodens delta.
-* De blir överfallna av banditer, blir förda till ledaren som visar sig vara Festina.
-* Festina går enkelt med på att avbryta räderna mot att borgmästaren aktivt medlar på nästa fredskonferens.Vårt lag frisläpps, och söker audiens hos borgmästaren.
-* Borgmästaren berättar att dem skickar vapnena av rädsla för vad någondera av riket eller imperiet riktat mot staden om de segrat. Dessutom har producenterna intresse att skeppa dem någonstans, och de behövs bättre där än här. Så de beger sig till några nyckelproducenter härnäst.
-* Producenterna bryter ogärna ingågna avtal, krävs att vårt lag ger ett bättre erbjudande.
-* Våt lag får helt enkelt ge sig, tills **Den Stora Plot Twisten** händer!
+1. Vårt lag följer floden mot det kluvna berget, genom bergspassagen, där de snubblar över en metropol vid flodens delta.
+2. De blir överfallna av banditer, blir förda till ledaren som visar sig vara Festina.
+3. Festina går enkelt med på att avbryta räderna mot att borgmästaren aktivt medlar på nästa fredskonferens. Vårt lag frisläpps, och söker audiens hos borgmästaren.
+4. Borgmästaren berättar att dem producerar vapnena av rädsla för vad någondera av riket eller imperiet riktat mot staden om de segrat, och skickar överskottet för att förhindra det scenariot. Dessutom behövs de för att polismakterna ska kunna nedkämpa banditer, och för att försäkringsbolagen ska försvara handelsflottorna. Borgmästaren bryter helt enkelt ogärna en framgångsrik policy, det krävs en grundläggande förändring av status quo.
+5. Våt lag beger sig besviket till fortet för att bida sin tid, tills **Den Stora Plot Twisten** händer!
 
 ### Del 2
 
-* Med **Den Stora Plot Twisten** upptäcker vårt lag hur räder från kusten och slumpmässiga platser verkar komma från bortom haven liksom bortom himlen. Vapen behövs uppenbarligen för att försvara kontinenten mot dessa faror.
-* A) Och vapen är ju något de vet finns, och de redan vill styra om (om de nått Del 1 slut redan)
-* B) Och gott om vapen verkar skickas från Skärgårdens Stad (fortsätt del 1)
-* I utbyte mot underrättelser om hur dessa hot fungerar, och tekniska samarbeten, når de enighet med producenterna att prioritera havs- och luftförsvar på kontinenten mot slopade leveranser till både Kungadömet och Imperiet.
+* Med **Den Stora Plot Twisten** upptäcker vårt lag hur räder från kusten och slumpmässiga platser verkar komma från bortom haven liksom bortom himlen. Vapen okända för kontinenten behövs uppenbarligen för att försvara den mot dessa faror.
+Något de vet att de har, om du upptäckt hamnen och flygbasen!
+* Del 1 inte påbörjats) Och gott om vapen verkar skickas från Skärgårdens Stad
+* Om Del 1 upp till 2.) Festina hade säkert varit intresserad av den nyheten!
+* Om Del 1 upp till 3.) Hög tid att ta audiencen med Skärgårdsstadens borgmästare!
+* Om Del 1 upp till 4.) Detta utgör kanske en tillräcklig förändring i status quo!
+* Om Del 1 redan avslutats) Tiden är inne att övertyga borgmästaren!
+* De kontaktar Festina med nyheterna, som efter en stunds eftertanke kläcker en plan att reformera banditerna till Fortets underrättelsetjänst och gå med vårt lag.
+* De söker upp borgmästaren för att etablera en deal: De säljer överskottet till dem istället, och de kan hjälpa till att patrullera himlen och haven med sina nyfunna verktyg.
 * Borgmästaren går med på ny doktrin: Dominans över luft och hav, vilket varken Kungadömet eller Imperiet kan hota än, ger de styrkeläge för kommande fredsförhandling, eller rent av medlarroll då de är neutrala.
-* Festina är nöjd, går med vårt lag och reformerar banditerna till Fortets underrättelsetjänst.
