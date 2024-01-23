@@ -30,3 +30,9 @@ li label:hover{
 li:hover, li label:hover{
     background-color: var(--option-textbox-highlight);
 }
+ol li::before{
+    content: '- ';
+}
+div{
+    margin: 2.5em 0 2.5em 1em;
+}
