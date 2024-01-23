@@ -5,67 +5,75 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="../../lib/style/style.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Act 1 - Persuit</title>
+    <script defer src="../../lib/elements/navigation-footer.js"></script>
+    <script defer src="../../lib/elements/speech-box.js"></script>
+    <title>Kapitel 4 - Vilse i spenaten</title>
 </head>
 <body>
       <h1>Morgon, 2-1 AV</h1>
-      <speech-box character="narrator">När morgonens första gryningsljus gör platån synlig ser En att liften är redo. En knuffade fordonet på liftkranen, och tog ner de båda.</speech-box>
+      <speech-box character="narrator">När morgonens första gryningsljus gör platån synlig ser En att liften är redo. En knuffar fordonet på liftkranen, och hissar ner sig med det.</speech-box>
       <speech-box character="andrei">Jaha, vad kan vi säga om första dagen i Sophias nya era?</speech-box>
       <speech-box character="sophia">Snälla... Så, En, har du upptäckt någonting där uppe under natten?</speech-box>
-      <ul>
-      <li>
-         <input type="radio" id="evening1views" name="evening1" value="1">
-         <label for="evening1views">Det finns en hel del fina utsikter och träd i trakten!</label>
-         <speech-box character="sophia">Kul, men hur hjälper det oss?</speech-box>
-         <speech-box character="andrei">Hah, för en gång skull något jag kan. Detaljerade terrängkartor kan vara guld värda för att planera operationer i framtiden. Toppen, En, fortsätt kartlägg!</speech-box>
-      </li>
-      <li>
-         <input type="radio" id="evening1junk" name="evening1" value="2">
-         <label for="evening1junk">Jag fann en del metallskrot som ligger utspritt över fältet.</label>
-         <speech-box character="sophia">Det låter inte som något som borde finnas där.</speech-box>
-         <speech-box character="andrei">Men det påminner om något människorna som tog Curio kunnat använda, eller hur?</speech-box>
-         <speech-box character="sophia">Det gör det. En, om du hittar mer, kan du ta det tillbaka? Vi kanske kan lära oss något av verktygen dessa människor använder.</speech-box>
-      </li>
-      <li>
-         <input type="radio" id="evening1roads" name="evening1" value="3">
-         <label for="evening1roads">Det verkar finnas någon form av vägar. Mest övervuxna grusvägar, men ändå</label>
-         <speech-box character="sophia">Vilket ändå antyder att någon velat röra sig förbi här regelbundet, mot någonting. Även om det var länge sedan.</speech-box>
-         <speech-box character="andrei">Det hjälper däremot inte oss frakta särskilt mycket just nu, om vi inte rustar upp vägarna medan vi rör oss.</speech-box>
-      </li>
-      </ul>
+      
+         <div>
+            <!-- <input type="radio" id="evening1views" name="evening1" value="1">
+            <label for="evening1views">Det finns en hel del fina utsikter och träd i trakten!</label> -->
+            <speech-box character="en">Det finns en hel del fina utsikter och träd i trakten!</speech-box>
+            <speech-box character="sophia">Kul. Tog du fina bilder, också? 😒</speech-box>
+            <speech-box character="andrei">Sophia, att hålla högland har varit en taktisk fördel sedan urminnes tider. Toppen, En, fortsätt kartlägg!</speech-box>
+         </div>
+         <div>
+            <!-- <input type="radio" id="evening1junk" name="evening1" value="2">
+            <label for="evening1junk">Jag fann en del metallskrot som ligger utspritt över fältet.</label> -->
+            <speech-box character="en">Jag fann en del metallskrot som ligger utspritt över fältet.</speech-box>
+            <speech-box character="sophia">Metallskrot? Vad finns här i metall som ens blir skrot?</speech-box>
+            <speech-box character="andrei">Tja, det påminner om något människorna som försökta ta Curio kunnat använda, eller hur?</speech-box>
+            <speech-box character="sophia">Det gör det... En, om du hittar mer, kan du ta det tillbaka? Vi kanske kan lära oss något av verktygen dessa människor använder.</speech-box>
+         </div>
+         <div>
+            <!-- <input type="radio" id="evening1roads" name="evening1" value="3">
+            <label for="evening1roads">Det verkar finnas någon form av stigar. Det mesta är övervuxet och lämnat i förfall.</label> -->
+            <speech-box character="en">Det verkar finnas någon form av stigar. Det mesta är övervuxet och lämnat i förfall.</speech-box>
+            <speech-box character="sophia">Vilket ändå antyder att någon velat röra sig förbi här regelbundet, mot någonting. Även om det var länge sedan.</speech-box>
+            <speech-box character="andrei">Det hjälper oss å andra sidan inte att frakta särskilt mycket tyngd just nu, om vi inte rustar upp vägarna.</speech-box>
+         </div>
+      
       <speech-box character="En">Det var allt jag såg där uppifrån.</speech-box>
       <speech-box character="sophia">Bra spanat.</speech-box>
-
       
-      <speech-box character="sophia">En, jag och Andrei kom överens om att köra - eller dra, om så krävs - oss i skift. Med de här "vägarna" lär det ha en maka takt, så se dig omkring och stämma av med oss i skymningen vad du ser?</speech-box>
+      <speech-box character="sophia">En, jag och Andrei kom överens om att släpa oss fram i skift. Med stigarna du fann lär det gå snabbare, men fortfarande långsamt, så kan du se dig omkring och stämma av med oss i skymningen vad du sett?</speech-box>
+      <speech-box character="narrator">Under dagen ser sig En - genom dina instruktioner, bäste spelare - ut på utflykt i närområdet. Oroa dig inte om du inte hittar allt på en gång, du kan spela om dagen så många gånger du behöver med bibehållna framsteg</speech-box>
 
       <h1>Kväll, 2-1 AV</h1>
       <speech-box character="sophia">Jag har tänkt lite under dagen, och jag anar varför vi inte kan nå dem andra: Det finns helt enkelt varken signal där de är, eller från oss till dem.</speech-box>
-      <speech-box character="andrei">Får vi tillfälle vore det klokt att återställa signaltornen. För att inte tala om att förbättra vägarna.</speech-box>
-      <speech-box character="sophia">Med det sagt: En, någon ny upptäckt idag?</speech-box>
+      <speech-box character="andrei">Får vi tillfälle vore det klokt att återställa signaltornen. För att inte tala om vägarna.</speech-box>
+      <speech-box character="narrator">Andrei kollapsar framför fordonet</speech-box>
+      <speech-box character="andrei">För att inte tala om vägarna.</speech-box>
+      <speech-box character="sophia">En, du har lite energi kvar, ändå. Någon ny upptäckt idag?</speech-box>
       <speech-box character="en">Jag har hittat flera små byar längsmed vägen. Men det är något konstigt med dem.</speech-box>
       <speech-box character="andrei">Jag anar var det här är på väg. Lyckades du prata med dem du fann där? Kunde de berätta något?</speech-box>
-      <ul>
-      <li>
-         <input type="radio" id="evening2repairs" name="evening2" value="1">
-         <label for="evening2repairs">En av byarna ville att jag skulle hjälpa dem reparera tak och väggar.</label>
+      <div>
+         <!-- <input type="radio" id="evening2repairs" name="evening2" value="1">
+         <label for="evening2repairs">En av byarna ville att jag skulle hjälpa dem reparera tak och väggar.</label> -->
+         <speech-box character="en">En av byarna ville att jag skulle hjälpa dem reparera tak och väggar.</speech-box>
          <speech-box character="sophia">Pratar vi bara underhåll? Nej, inte om det var flera hus.</speech-box>
-         <speech-box character="andrei">Men de har ännu hopp om reparationer och återställning.</speech-box>
-      </li>
-      <li>
-         <input type="radio" id="evening2farming" name="evening2" value="2">
-         <label for="evening2farming">En annan by behövde hjälp att så sina fält.</label>
+         <speech-box character="andrei">Men de har hopp om reparationer och återställning.</speech-box>
+      </div>
+      <div>
+         <!-- <input type="radio" id="evening2farming" name="evening2" value="2">
+         <label for="evening2farming">En annan by behövde hjälp att så sina fält.</label> -->
+         <speech-box character="en">En annan by behövde hjälp att så sina fält.</speech-box>
          <speech-box character="sophia">Så det är årstiden för att så, alltså. Vi kan anta att det är vår. Bra, ger oss tid att bereda oss på vintern.</speech-box>
          <speech-box character="andrei">Men de behövde hjälp med det. Alltså kommer de inte skörda i höst som de brukat. De kommer få en svår vinter om ingenting förändras.</speech-box>
-      </li>
-      <li>
-         <input type="radio" id="evening2mess" name="evening2" value="3">
-         <label for="evening2mess">I den tredje byn låg saker huller om buller.</label>
+      </div>
+      <div>
+         <!-- <input type="radio" id="evening2mess" name="evening2" value="3">
+         <label for="evening2mess">I den tredje byn låg saker huller om buller.</label> -->
+         <speech-box character="en">I den tredje byn låg saker huller om buller.</speech-box>
          <speech-box character="andrei">Nästan som om de släppt vad än de hade för händer, eller hur?</speech-box>
          <speech-box character="sophia">Du menar att...</speech-box>
          <speech-box character="andrei">... de sett främlingar komma från horisonten förr, och varje gång har män gått därifrån med dem och aldrig kommit tillbaka.</speech-box>
-      </li>
-      </ul>
+      </div>
       <speech-box character="En">Det var allt jag fann idag</speech-box>
       <speech-box character="andrei">Det här är oroande. Det du beskriver tyder på att det saknas vuxna män på landsbygden. Det kan bara betyda en sak... det är krig här, och har varit det länge.</speech-box>
       <h1>Kväll, 3-1 AV</h1>
