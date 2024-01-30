@@ -1,121 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../../lib/style/style.css" />
-    <title>Act 1 - Infiltration</title>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="../../lib/style/style.css" />
+   <script defer src="../../lib/elements/navigation-footer.js"></script>
+   <script defer src="../../lib/elements/speech-box.js"></script>
+   <title>Act 1 - Infiltration</title>
 </head>
 <body>
-    <h1>Middag, 4-1 AV</h1>
-    <!--
-        - Trion har anlänt till ett läger (som de ännu inte vet är en fredskonferens)
-    -->
-    <speech-box character="sophia">Jag har så många frågor...</speech-box>
-    <speech-box character="andrei">Du är inte ensam.</speech-box>
-    <speech-box character="sophia">Kan Curiosity vara här? Det finns inget annat på vägen, men varför skulle någon tagit honom hit?</speech-box>
-    <speech-box character="andrei">Vi kommer behöva tid att se oss omkring oavsett. Vad sägs om att börja hitta en bas att utgå från?</speech-box>
-    <speech-box character="sophia">Klok plan. Låt oss sammanstråla här ikväll och delge vad vi hittat.</speech-box>
+   <h1>Middag, 4-1 AV</h1>
+   <speech-box character="narrator">Efter en händelselös förmiddags promenad kunde vår trio se by som stack ut ur mängden.</speech-box>
+   <speech-box character="narrator">Till skillnad från de tidigare byarna hade alla hus intakta väggar, pittoreska stenväggar med trädetaljer och till och prydliga glasfönster. Stenlagda vägar band samman de, med gatrännor och brunnar för regnvatten att rinna av i.</speech-box>
+   <speech-box character="narrator">Människor gick dessutom på gatorna. De flesta prydligt klädda i färgglada färgpaletter.</speech-box>
+   <speech-box character="narrator">Men i stark kontrast omgavs byn av stålbjälkar sammanvävda av ståltrådgaller och krönta av virad taggtråd.</speech-box>
+   <speech-box character="sophia">Jag har så många frågor...</speech-box>
+   <speech-box character="andrei">Du är inte ensam.</speech-box>
+   <speech-box character="sophia">Kan Curiosity vara här? Det finns inget annat på vägen, men varför skulle någon tagit honom <i>hit</i>?</speech-box>
+   <speech-box character="andrei">Vi kommer behöva tid att se oss omkring oavsett. Vad sägs om att börja hitta en bas att utgå från?</speech-box>
+   <speech-box character="sophia">Klok plan. Låt oss sammanstråla här ikväll och delge vad vi hittat.</speech-box>
+   
+   <h1>Kväll, 4-1 AV</h1>
+   <speech-box character="narrator">Framåt solnedgången möttes de igen nära stängslet de kom från.</speech-box>
+   <speech-box character="andrei">Så... det är inte något banditläger, är ett som är säkert. De här människorna bär uniformer.</speech-box>
+   <speech-box character="sophia">Men inte verkar det särskilt samordnat heller. Har ni sett hur folket i de olika uniformerna blänger på varandra?</speech-box>
+   <ul>
+      <li>
+         <input type="radio" id="evening4happyshouting" name="evening4" value="1">
+         <label for="evening4happyshouting">
+            Däremot verkar de tjuta och vråla gott från byggnaden nedför gatan.
+         </label>
+      </li>
+   </ul>
+   <speech-box character="andrei">Ett värdshus, kanske? Det vore ett naturligt ställe att mötas på framöver.</speech-box>
+   <speech-box character="sophia">Det är redan mörkt. Tänkte ni att vi bara vandrat in och hoppas de har lediga rum?</speech-box>
+   <speech-box character="andrei">Det är väl ändå värt ett försök? I värsta fall kan vi tjuvlyssna på vad de säger, och kanske lära oss några ord.</speech-box>
+   <speech-box character="sophia">Du har rätt. Jag behöver lära mig deras språk.</speech-box>
+   <speech-box character="narrator">Sophia verkar inse något samtidigt som orden lämnar munnen.</speech-box>
+   <speech-box character="sophia">Och har de stål, och lämnar efter sig metallskrot... Så har de kanske robotar och datorsystem! 😁</speech-box>
+   <speech-box character="andrei">Och har de uniformer, har de säkert sätt att slåss! Vad väntar vi på? Mot värdshuset!</speech-box>
+   <speech-box character="en">Jag går och lägger mig här. Jag behöver solljuset och batterierna i morgon.</speech-box>
+   <speech-box character="narrator">En lägger sig på marken, och går i viloläge omedelbart och oceremoniellt.</speech-box>
     
-    <h1>Kväll, 4-1 AV</h1>
-    <!--
-        - Hittat de större faciliteterna i lägret, noterat spänning och uniformer
-        - Funit (suspekt?) värdshus som de hoppas kan vara tillfällig "bas"
-    -->
-    <speech-box character="andrei">Så... det är inte något banditläger, är ett som är säkert. De här människorna bär uniformer.</speech-box>
-    <speech-box character="sophia">Men inte verkar det särskilt samordnat heller. Har ni sett hur folket i de olika uniformerna blänger på varandra?</speech-box>
-    <ul>
-        <li>
-           <input type="radio" id="evening4happyshouting" name="evening4" value="1">
-           <label for="evening4happyshouting">
-              Vad de än gör på gatan så verkar folk skrika muntert från byggnaden nedför den.
-           </label>
-        </li>
-        <li>
-           <input type="radio" id="evening4tavern" name="evening3" value="2">
-           <label for="evening4tavern">
-              Ni såg inget av byggnaderna som finns här, då? Jag är säker på att en av dem är ett värdshus.
-           </label>
-        </li>
-     </ul>
-     <speech-box character="andrei">Ett värdshus, alltså? Det vore ett naturligt ställe att mötas på framöver.</speech-box>
-     <speech-box character="sophia">Det är redan mörkt. Tänkte ni att vi bara vandrat in och hoppas de har lediga rum?</speech-box>
-     <speech-box character="andrei">Det är väl ändå värt ett försök? I värsta fall kan vi tjuvlyssna på vad de säger, och kanske lära oss några ord.</speech-box>
-     <speech-box character="sophia">Du har rätt. Jag behöver lära mig deras språk. Jag har inte sett en maskin på vår tidsålder, men kanske... 😁</speech-box>
-     <speech-box character="andrei">Ah, där är ett leende jag saknat! Du kommer nog finna dig som fisken i vattnet här, trots allt.</speech-box>
-     <speech-box character="en">Jag går och lägger mig här. Jag behöver solljuset och batterierna i morgon.</speech-box>
-    
-    <h1>Morgon, 5-1 AV</h1>
-     <speech-box character="en">Min tur att fråga er: Fann ni något?</speech-box>
-     <speech-box character="sophia">Jag känner igen enstaka ord, men inte samma ord från samma uniformer. Vårt språk måste ha förgrenats i minst två-tre grenar sedan vår förra tid.</speech-box>
-     <speech-box character="andrei">Jag lyckades med gester, enkla ljud och mer än ett slagsmål vinna någras respekt, tror jag</speech-box>
-     <speech-box character="andrei">Men desto viktigare lärde jag mig mycket om hur de slåss i obeväpnad närstrid. Nu var dessa karlar väldigt fulla, men de var fortfarande tränade.</speech-box>
-     <speech-box character="sophia">En sak blev jag klok på. De köpslår, och använder någon form av pengar.</speech-box>
-     <ul>
-        <li>
-           <input type="radio" id="morning5" name="evening4" value="1">
-           <label for="evening4">
-              Men hur? Om de inte pratar samma språk, och blänger misstänksamt på varandra, hur använder de samma pengar?
-           </label>
-        </li>
-        <li>
-           <input type="radio" id="evening3scrapheap" name="evening3" value="2">
-           <label for="evening3scrapheap">
-              Bäst att hitta ett sätt att tjäna dessa pengar, i så fall. Om ni inte vill bli en sevärdhet medan ni sover?
-           </label>
-        </li>
-     </ul>
-    <!-- Vid val 1 -->
-    <speech-box character="sophia">Lämna det åt mig. Din tid vore bättre lagd på att bli varse hur vi skaffar dessa pengar.</speech-box>
-    <!-- Vid val 2 -->
-    <speech-box character="sophia">Helt enig.</speech-box>
-    <!-- Fortsättning -->
-    <speech-box character="sophia">Lycka till, vi hörs här ikväll.</speech-box>
-    
-    <h1>Kväll, 6-1 AV</h1>
-    <!-- 
-        - En funnit anslagstavla med folk som vill köpa eller sälja grejer och få tjänster köpta eller sålda
-        - Dessutom tjänat in lite pengar, överlämnar till sophia och andrei 50/50
-    -->
-    <speech-box character="en">God kväll, sjusovare.</speech-box>
-    <speech-box character="sophia">Du skämtar, men vet du hur svårt det är att sova när du alltid känner dig iaktagen?</speech-box>
-    <speech-box character="andrei">Men du iaktar ju alltid någon annan, Sophia. Det är lite din grej?</speech-box>
-    <speech-box character="sophia">Jag menar allvar. Det här lägret har ögon och öron i väggarna, och de är inte mina.</speech-box>
-    <speech-box character="andrei">Kanske något för dig att undersöka i natt, då? Men låt oss ge En lite luft, hur har det gått för dig?</speech-box>
-    <speech-box character="en">Jag tjänade våra första pengar! Det finns en anslagstavla nedför gatan med diverse problem folk vill ha hjälp med.</speech-box>
-    <speech-box character="sophia">Intressant. Vad är det för "problem"? Tar du någons parti när du utför de? Gör vi oss fiender?</speech-box>
-    <speech-box character="andrei">Låt oss tänka på det senare. Är det fräckt att fråga om vi får använda det här?</speech-box>
-    <speech-box character="sophia"> ... </speech-box>
-    <speech-box character="en">...Visst. Dela de 50/50 om det hjälper er hitta svar.</speech-box>
-    <speech-box character="sophia"></speech-box>
+   <h1>Morgon, 5-1 AV</h1>
+   <speech-box character="narrator">En vaknade lika oceremoniellt som han somnade: Omedelbart och utan trötthet. Sophia var redan där, och Andrei kom framåt soluppgångnen.</speech-box>
+   <speech-box character="en">Min tur att fråga er: Fann ni något?</speech-box>
+   <speech-box character="sophia">Jag känner igen enstaka ord, men inte samma ord från samma uniformer. Det verkar vara helt olika språk i mina öron.</speech-box>
+   <speech-box character="andrei">Jag lyckades med gester, enkla ljud och mer än ett slagsmål vinna någras respekt, tror jag.</speech-box>
+   <speech-box character="andrei">Men desto viktigare lärde jag mig mycket om hur de slåss i obeväpnad närstrid. Nu var dessa karlar väldigt fulla, men de var fortfarande vältränade.</speech-box>
+   <speech-box character="sophia">En sak blev jag klok på. De köpslår, och använder någon gemensam form av pengar.</speech-box>
+   <div>
+      <speech-box character="en">Men hur? Om de inte pratar samma språk, och blänger misstänksamt på varandra, hur använder de samma pengar?</speech-box>
+      <speech-box character="sophia">Lämna det åt mig. Din tid vore bättre lagd på att bli varse hur vi skaffar dessa pengar.</speech-box>
+   </div>
+   <div>
+      <speech-box character="en">Bäst att hitta ett sätt att tjäna dessa pengar, i så fall. Om ni inte vill bli en sevärdhet medan ni sover?</speech-box>
+      <speech-box character="sophia">Helt enig.</speech-box>
+   </div>
+   <speech-box character="sophia">Lycka till, vi hörs här ikväll.</speech-box>
+   
+   <h1>Kväll, 6-1 AV</h1>
+   <!-- 
+      - En funnit anslagstavla med folk som vill köpa eller sälja grejer och få tjänster köpta eller sålda
+   -->
+   <speech-box character="narrator">En närmar sig mötesplatsen när han ser Sophia och Andrei vakna.</speech-box>
+   <speech-box character="en">God kväll, sjusovare.</speech-box>
+   <speech-box character="sophia">Du skämtar, men vet du hur svårt det är att sova när du alltid känner dig iaktagen?</speech-box>
+   <speech-box character="andrei">Men du iaktar ju alltid någon annan, Sophia. Det är lite din grej.</speech-box>
+   <speech-box character="sophia">Jag menar allvar. Det här lägret har ögon och öron i väggarna, och de är inte mina.</speech-box>
+   <speech-box character="andrei">Kanske något för dig att undersöka i natt, då? Men låt oss ge En lite luft, hur har det gått för dig?</speech-box>
+   <speech-box character="narrator">Med trimf i rösten tar En fram någonting (låt oss inte gräva i var androider utan fickor förvarar saker)</speech-box>
+   <speech-box character="en">Jag tjänade våra första pengar! Det finns en anslagstavla nedför gatan med diverse problem folk vill ha hjälp med.</speech-box>
+   <speech-box character="sophia">Intressant. Vad är det för "problem"? Tar du någons parti när du utför de? Gör vi oss fiender?</speech-box>
+   <speech-box character="andrei">Låt oss tänka på det senare. Hur använder vi de här?</speech-box>
+   <speech-box character="sophia">Andrei!</speech-box>
+   <speech-box character="andrei">...</speech-box>
+   <speech-box character="en">...</speech-box>
+   <speech-box character="en">Visst. Dela de 50/50 om det hjälper er hitta svar. God natt.</speech-box>
 
-    <h1>Morgon, 7-1 AV</h1>
-    <!--
-        - Andrei har lärt sig mer om beväpnad närstrid, känt igen elitserien
-        - Sophia har lärt sig mer ord, uppfattat rykten som kan vara deras kompanioner
-    -->
-    <speech-box character="sophia">God morgon, En! Vi har nyheter!</speech-box>
-    <speech-box character="sophia">Jag börjar förstå vad folk säger, och hör spännande rykten.</speech-box>
-    <speech-box character="sophia">Folk i de kamoflerade kostymerna viskar om någon "prinskandidat", som beskrivs som sammanbiten, kalkylerad och måttfull. Låter inte det som någon vi känner?</speech-box>
-    <speech-box character="sophia">Folk i de eleganta kostymerna pratar istället om hur den kejserliga princessan blivit besatt av en häxa, då hon verkar kunna läka obotliga tillstånd och vet saker ingen borde veta. Känner vi en sådan "häxa"?</speech-box>
-    <speech-box character="sophia">Sist men inte minns retar sig folket i de svart-vita kostymerna över ståtrövare. Deras ledare är tydligen en glädjespridare med moralisk kompass, som slår till och försvinner innan de förstår att hon var där. Ringer det en klocka hos er, med?</speech-box>
-    <speech-box character="andrei">Jag har också nyheter, men inte så goda.</speech-box>
-    <speech-box character="andrei">Det är inte bara vänner vi känner igen. De gamla monstren ur elitserien finns fortfarande bland oss.</speech-box>
-    <speech-box character="andrei">Det konstiga är att folk verkar värdesätta dem, och de verkar inte heller fientliga mot människor. Någonting har onekligen hänt med dem sedan förr.</speech-box>
-    <speech-box character="en">Lärde ni er något om Curiosity? Vårt spår kommer kallna om vi stannar här länge till.</speech-box>
-    <speech-box character="andrei">Tyvärr. Men, nu när du säger det, alla verkar väldigt måna att undvika det där slottet längst bort. Är han här kanske det är värt att leta där?</speech-box>
-    <speech-box character="en">Det är åtminstone en ledtråd. Sov ut, så hörs vi ikväll</speech-box>
-    <h1>Kväll, 7-1 AV</h1>
-    <!--
-        - Trion får kännedom om var Curiosity hålls
-        - Trion bestämmer sig för att agera omedelbart (utan konsekvensanalys, de förstår ju inte världen än)
-    -->
-    <speech-box character="en">Vänner, jag har sett Curiosity</speech-box>
-    <speech-box character="sophia">Var? Hur? Är han i säkerhet?</speech-box>
-    <speech-box character="en">Slottet visade sig vara helt rätt. Han leddes runt kors och tvärs med beväpnad eskort och pratade med sammanbitna figurer i olika kostymer.</speech-box>
-    <speech-box character="sophia">Nej nu j-vlar, ingen kör med vår Curiosity! Följ mig, vi har ett slott att inta!</speech-box>
-    <speech-box character="andrei">En, följ med. Ingenting kommer stoppa henne nu, och vi kommer nog behöver skydda dem från henne.</speech-box>
-    <navigation-footer previous="persuit" next="rescue"></navigation-footer>
+   <h1>Morgon, 7-1 AV</h1>
+   <!--
+      - Andrei har lärt sig mer om beväpnad närstrid, känt igen elitserien
+      - Sophia har lärt sig mer ord, uppfattat rykten som kan vara deras kompanioner
+   -->
+   <speech-box character="narrator">Med två par fotspår - ett par lätta, och ett par tunga - närmandes sig vaknar En.</speech-box>
+   <speech-box character="sophia">God morgon, En! Vi har nyheter!</speech-box>
+   <speech-box character="sophia">Jag börjar förstå vad folk säger, och hör spännande rykten.</speech-box>
+   <speech-box character="sophia">Folk i de gul-lila kostymerna viskar om någon "prinskandidat", som beskrivs som sammanbiten, kalkylerad och måttfull. Låter inte det som någon vi känner?</speech-box>
+   <speech-box character="sophia">Folk i de blå-oranga kostymerna pratar istället om hur den kejserliga princessan blivit besatt av en häxa, då hon verkar kunna läka obotliga tillstånd och vet saker ingen borde veta. Känner vi en sådan "häxa"?</speech-box>
+   <speech-box character="sophia">Sist men inte minns retar sig folket i de svart-vita kostymerna över ståtrövare. Deras ledare är tydligen en glädjespridare med moralisk kompass, som slår till och försvinner innan de förstår att hon var där. Ringer det en klocka hos er, med?</speech-box>
+   <speech-box character="andrei">Jag har också nyheter, men inte så goda.</speech-box>
+   <speech-box character="andrei">Det är inte bara vänner vi känner igen. De gamla monstren ur elitserien finns fortfarande bland oss.</speech-box>
+   <speech-box character="andrei">Det konstiga är att folk verkar värdesätta dem, och de verkar inte heller fientliga mot människor. Någonting har onekligen hänt med dem sedan förr.</speech-box>
+   <speech-box character="en">Lärde ni er något om Curiosity? Vårt spår kommer kallna om vi stannar här länge till.</speech-box>
+   <speech-box character="andrei">Tyvärr. Men, nu när du säger det, alla verkar väldigt måna att undvika det där slottet längst bort. Är han här kanske det är värt att leta där?</speech-box>
+   <speech-box character="en">Det är åtminstone en ledtråd. Sov ut, så hörs vi ikväll</speech-box>
+   
+   <h1>Kväll, 7-1 AV</h1>
+   <speech-box character="narrator">En skrittar tillbaka till mötesplatsen. Sophia och Andrei är till synes i viloläge.</speech-box>
+   <speech-box character="en">Vänner - jag har sett Curiosity!</speech-box>
+   <speech-box character="narrator">Sophia vaknar omedelbart och reser sig utan minsta tecken på trötthet.</speech-box>
+   <speech-box character="sophia">Var? Hur? Är han i säkerhet?</speech-box>
+   <speech-box character="en">Slottet visade sig vara helt rätt. Han leddes runt kors och tvärs med beväpnad eskort och pratade med sammanbitna figurer i olika kostymer.</speech-box>
+   <speech-box character="sophia">Nej nu j-vlar, ingen kör med vår Curiosity! Följ mig, vi har ett slott att inta!</speech-box>
+   <speech-box character="andrei">Andrei vaknar omedelbart, och kliver upp med ett fokuserat lugn.</speech-box>
+   <speech-box character="andrei">En, följ med. Ingenting kommer stoppa henne nu, och vi kommer nog behöver skydda dem från henne.</speech-box>
+   <navigation-footer previous="persuit" next="rescue"></navigation-footer>
 </body>
 </html>
