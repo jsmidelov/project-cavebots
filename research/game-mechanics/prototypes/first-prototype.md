@@ -7,7 +7,7 @@ I want to verify the core gameplay idea would be any fun before spending a bunch
 - A metronome
 - Two deck of cards
 - A drawn grid, e.g. chess board
-- 20 markers or pieces
+- 20 markers or pieces OR 2 markers on two paper scales graded from 0 to 10.
 
 ## Preparations
 
@@ -20,7 +20,7 @@ The game is the most abstract and simplified swordsman duel. The goal is for the
 
 They do this by plaing actions on the first note of a beat of the metronome (henceforth called a "turn" to spare the reader my bad music theory knowledge).
 
-From the first turn an on, the players draw an Action Point (e.g. a poker marker, a chess piece), up to a cap of 10.
+From the first turn an on, the players draw an Action Point (e.g. a poker marker, a chess piece), up to a cap of 10. OR they move their marker one integer up on their paper scale.
 
 On the turn, each player may:
     - Move their piece on the board in any cardinal direction (no AP cost)
