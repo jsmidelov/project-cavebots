@@ -20,7 +20,7 @@ The game is the most abstract and simplified swordsman duel. The goal is for the
 
 They do this by plaing actions on the first note of a beat of the metronome (henceforth called a "turn" to spare the reader my bad music theory knowledge).
 
-From the first turn an on, the players draw an Action Point (e.g. a poker marker, a chess piece), up to a cap of 10. OR they move their marker one integer up on their paper scale.
+From the first turn an on, the players gain an Action Point by moving their marker one integer up on their paper scale.
 
 On the turn, each player may:
     - Move their piece on the board in any cardinal direction (no AP cost)
@@ -29,6 +29,7 @@ On the turn, each player may:
         - A numbered card strike its number of cells ahead (and costs as many AP)
         - A JQKAJ cards parries a numbered card - but not a strike - played this turn (and costs 1 AP)
 If a player playes a card, they move it to their discard pile and draws another from the draw pile. Should they draw the last card of the draw pile, they move the discard pile to the draw pile.
+If both players draw a numbered card that would hit the other player, it's a parry and the duel continues.
 
 ## Ideas for expanding the prototype
 
