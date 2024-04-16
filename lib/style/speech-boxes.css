@@ -18,19 +18,6 @@ speech-box {
     border: 1px solid var(--base-text-color);
 }
 
-.shouted{
-    font-size: x-large;
-    font-variant: small-caps;
-}
-.whispered{
-    font-size: x-small;
-}
-span.keyword{
-    color: var(--keyword-text-color);
-}
-span.concept{
-    color: var(--concept-text-color);
-}
 speech-box[tone='happy']::after{
     content: '😀';
 }
@@ -44,8 +31,4 @@ speech-box[character="system"] {
     border: 3px solid var(--system-text-color);
     font-family: 'Courier New', Courier, monospace;
     font-weight: 700;
-}
-speech-box.thought {
-    border: 2px dashed var(--base-text-color);
-    border-radius: 20px;
 }
