@@ -19,6 +19,8 @@ I didn't think I wanted this in state, because it's not dynamic, but that actual
     - Wind would create a directional force a number of tiles, pushing any opponent, player or fire in its path, but stop at an obstacle
     - Earth would manipulate height, possibly pushing away puddles, or moving obstacles on tiles
 
+Maybe I can use an IndexedDB to store static information?
+
 ## State shape
 
 {

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prototype 2: Audience view</title>
+    <script defer src="../components/hex-field.js"></script>
+    <style>
+        @media(orientation: portrait){
+            landscape-view {
+                display: none;
+            }
+        }
+        @media(orientation: landscape){
+            portrait-view {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- The purpose of this area is to follow what's going on with the game for both players and test leader (i.e. me).
+        This should be a tablet between the players, where up for one is down for the other, directed in portrait mode from the test leader.
+        These constraints are critical for this prototype's scope to not blow up into a full-fledged multiplayer experience! -->
+    <landscape-view>
+        <p>The audience app is designed to be viewed on a tablet in portrait mode, placed on a table facing the test leader.</p>
+        <p>Please rotate the tablet into portrait mode, and lock the rotation to prevent landscape from happening accidentally.</p>
+    </landscape-view>
+    <portrait-view>
+        <header>
+            <!-- Top area display player names and connection status. While paused, the test leader can edit the name fields. -->
+            <input type="text" />
+            <input type="text" />
+        </header>
+        <main>
+            <!-- Main area has to be the playing field and where the players are. Should be equally readable from both players' point of view -->
+            <hex-field cols="10" rows="10"></hex-field>
+        </main>
+        <footer>
+            <!-- Bottom area is the metronome, with a pause/play button. While paused, the test leader can set the BPM. -->
+            <input type="number" />
+            <button click="PausePlay"></button>
+        </footer>
+    </portrait-view>
+</body>
+</html>

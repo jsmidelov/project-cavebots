@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prototype 2: Player view</title>
+    <script defer src="../components/action-card.js"></script>
+    <script defer src="../components/hex-field.js"></script>
+    <style>
+        @media(orientation: portrait){
+            landscape-view {
+                display: none;
+            }
+        }
+        @media(orientation: landscape){
+            portrait-view {
+                display: none;
+            }
+            /* landscape-view {
+                display: grid;
+                3 columns, 3 rows.
+                First row is the progress bar, so make it 1/5th height
+                Middle row is the main area, so make it as large as possible
+                    Left column is navigation grid, make it 1/3rd of width
+                    Right column is available actions, make it 2/3rds of width
+                Last row is how many action points are stored, make it 1/5th, too
+            } */
+        }
+    </style>
+</head>
+<body>
+    <!-- Condition for any render is a landscape view, I do not want this to support portrait modes -->
+    <landscape-view>
+        <!-- Top third bar: Beat tracker -->
+        <progress max="30" value="1" style="width: 100%; flex: 0 0 auto"></progress>
+        <!-- Left third side: Navigation area (and direction and distance to opponent?) -->
+        <!-- Main area, center/bottom/right two-thirds: Available actions and action points -->
+        <main style="flex: 1 0 auto">
+            <aside>
+                <!-- These should go around the center, but I'm placing these as if they're on lines.
+                    Maybe this is a chance to try out the sin/cos functions? -->
+                <hex-field>
+                    <hex-cell deg="2"></hex-cell>
+                    <hex-cell deg="1"></hex-cell>
+                    <hex-cell deg="3"></hex-cell>
+                    <move-center></move-center>
+                    <hex-cell deg="6"></hex-cell>
+                    <hex-cell deg="5"></hex-cell>
+                    <hex-cell deg="4"></hex-cell>
+                </hex-field>
+            </aside>
+            <section>
+                <action-bar style="display: flex; justify-content: space-evenly;">
+                    <action-card cost="1" title="test" description="this is a thing" image="./test.jpg" range="2" ></action-card>
+                    <action-card></action-card>
+                    <action-card></action-card>
+                    <action-card></action-card>
+                </action-bar>
+            <progress max="10" value="1" style="width: 100%; flex: 0 0 auto"></progress>
+            </section>
+            <footer>
+            </footer>
+        </main>
+    </landscape-view>
+    <portrait-view>
+        <p>Please turn your device into landscape mode to proceed.</p>
+        <p>If this turn is unintentional, look for your device's orientation lock once you've turned it back</p>
+    </portrait-view>
+</body>
+</html>
