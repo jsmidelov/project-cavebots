@@ -74,7 +74,7 @@ This is a case for a liberal democracy with "nightwatch" scope combined with a g
 
 ### The Golems and Stellars
 
-The Golems and Stellars fight a war older than the (current) world itself. While nobody in said world really see it, and attribute its damages to random accidents or more immediate things, it still limits people's liberty and hopes. Our team can only do something about it once they have both tools and knowledge to see it.
+The Golems and Stellars fight a war older than the (current) world itself. While nobody in said world really see it, and attribute its damages to random accidents or more immediate things, it still limits people's liberty and hopes. Our team can only ally with the Golems if they know this war is there, and that they should be on the Golems' side.
 
 ## Structure and presentation
 
