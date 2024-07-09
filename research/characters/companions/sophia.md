@@ -4,7 +4,7 @@ Sophia specializes in stealth and infiltration. She is programmed with advanced 
 
 ## Names
 Formal name: Sophia (of Ancient Greek for Wisdom)
-Called by team: Mom
+Called by team: --
 
 ## Personality
 
@@ -14,7 +14,7 @@ She has been acting out roles for so long she is starting to find it difficult k
 
 ## Story arc
 
-Her worry for Curio makes her impulsively and rashly act in order to free him, making an unknown bad situation worse and on her, in spite of her best intentions. Along the journey, she struggles with and learns how to resist being carried away, and think before she acts. Towards the end, En is stuck in a similiarly tricky situation, and because she manages to stop and think things through with the family, they successfully resolve the situation.
+Her worry for Curio makes her act impulsively and rashly in order to free him, thereby making an unknown bad situation worse and throws the blame on her in spite of her best intentions. Along the journey, she struggles with and learns how to resist being carried away, and think before she acts. Towards the end, En is stuck in a similiarly tricky situation, and because she manages to stop and think things through with the family, they successfully resolve the situation.
 
 ## Overworld
 

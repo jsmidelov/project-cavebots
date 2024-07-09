@@ -2,6 +2,10 @@
 
 Curiosity is the “nerd” of the team, ever curious about how this world works and why. He has been provided the best scientific intuition of the ancient world, and a lexicon of knowledge to draw from. He specializes in putting two and two together, inferring the implied, and determining what is likely and not. Among the things he learned is much magical skills of the Arcane age.
 
+## Names
+Formal name: Curiosity (eng, because I was too lazy to find the latin/old-greek word)
+Called by team: Curio
+
 ## Personality
 
 He can appear scatterbrained at a glance, and he speaks fast and with much academic jargon, but he is ever focused on the family's goal and planning most things with contingency plans upon the contingency plans. He can under-estimate the value of soft skills and the immesurable over knowledge and the measurable.
@@ -18,6 +22,6 @@ As Curiosity's specialty is putting pieces together at places that could provide
 
 ## Combat role
 
-In combat, he carries a spell blade and an orb he found for channeling arcane arts. Due to the risks involved with these arts, he generally builds and channels power until a weak spot is identified and remains still for long enough to be a confident critical strike, and then blasts it with all he’s built up. This does not encourage mobility on his part, but the damage output makes up for it.
+In combat, he carries a spell blade and an orb he found for channeling arcane arts. Due to the risks involved with these arts, he generally builds and channels power until a weak spot is identified and remains still for long enough to be a confident critical strike, and then blasts it with all he’s built up. This hyper-focus while firing makes him vulnurable to attack from other opponents, but the damage dealt can end most battles.
 
 His curiosity means he learns faster than anyone else, but his mere presence also has a knack for speeding up the rate the others learn at.
