@@ -8,18 +8,19 @@ Where there is liberty, there is hope
 
 This is a story of liberation.
 From those who would direct by command,
-From those who would nudge through incentives,
-From those who would steer with the best of intentions,
+From those who would engineer through incentives,
+From those who would shepard with the best of intentions,
 And from the eternal scepter of wars, overt and covert,
-Whether the high-minded motives of those are.
+no matter if their motives are idealist, cynical or nihlist.
 
-To one where people are left to live their lives,
+This is also a story of hope.
+For where people are left to live their lives as they see best,
 where people are trusted to make their own decisions,
-and own the consequences of their actions, good or bad,
-hope lives for a better tomorrow.
+and own the consequences of their actions, good or ill,
+the world grows incrementally better day by day.
 
-This is a story of outsiders turning the former on its head,
-to make the latter possible.
+This is a story of outsiders who walk into a war between engineers, shepards and tyrants,
+by becoming a beacon for liberation that shines hope upon the world.
 
 ## How substories connect to the theme
 
@@ -45,7 +46,7 @@ Festina's arc must connect with the lesson of the City, as she is both the first
 
 ### Sophia
 
-Sophia's arc is about how what sounds and feels good and right in the moment often make things worse for everyone involved. Or "the highway to hell..."
+Sophia's arc is about learning how her best intentions can make things worse for everyone involved, and she has to consider both means and ends before acting upon intension. Or "the highway to hell..."
 
 ### Andrei
 
@@ -67,10 +68,24 @@ This is a critique of absolute totalitarian monarchy with a directed ecnomy. Rea
 
 ### Citystate
 
-Naturally, even in utopia, thre will detractors. There will be groups abusing their liberties for rebellion, demanding this or that higher goal.
+Naturally, even in utopia, thre will detractors. There will be groups abusing their liberties for rebellion, demanding this or that "higher" goal.
 
-This is a case for a liberal democracy with "nightwatch" scope combined with a genuinly free and open market economy. Rather than a real or historical example, this takes the trappings of Cyberpunk are subverts it with a utopian lens. This case will be difficult in so far as the reader expects this to be awful to such a degree they may not be open to the case being made.
+This is a case for a liberal democracy with "nightwatch" scope combined with a genuinly free and open market economy. Rather than a real or historical example, this takes the trappings of Cyberpunk are subverts it with a utopian lens. This case will be difficult in so far as the reader expects this to be awful to such a degree they may not be open to the case being made, or take offense at the unusual notion of being portrayed as villains.
 
 ### The Golems and Stellars
 
 The Golems and Stellars fight a war older than the (current) world itself. While nobody in said world really see it, and attribute its damages to random accidents or more immediate things, it still limits people's liberty and hopes. Our team can only do something about it once they have both tools and knowledge to see it.
+
+## Structure and presentation
+
+Let's draw heavy inspiration from recent Zelda games - Breath of the Wild (and probably Tears of the Kingdom, as it has a similar structure) with authored and linear opening, independent substories and side-quests for lion's share of the story, and a (granted, very complex) "finale" where everything you've done comes together.
+
+Substories should focus on an area, be traditional three act structures that nudges the player to side-quests and have a tangible impact on the finale. There will, for natural reasons, be very few of these.
+The side-stories should be constrained to one location, one (main) character and one conflict to be managable and have a no or a minor impact upon the finale (e.g. a nod of recognition, a cameo or some power up). These should be as many as I can manage.
+
+## Challenges
+
+Apart from making everything internally consistent, there are two known challenges to overcome writing this:
+
+1. "Where there is liberty [as in, absense of coersion], there is hope" is at odds with a game system that's bound to be inherently about violence (and, by extension, coersion). The protagonists very capacity for violence carries an implied threat, which is itself coersive. To circumvent these ludonarrative dissonances the protagonists' capacity for violence must be expressed by a tool or weapon or indicator they can visibly leave aside or "turn on and off", and have strict rules for how it may be wielded.
+2. The protags have with the Fort a wealth of inherited tools and knowledge lost to the wider world. There's a risk the protagonists come off being princelings drawing from inheritance rather than capable actors using what their liberty provides them. As such, I must have a writing rule the Fort must not be the solution to the world's problems. Solving wordly problems may aid in developing the Fort, however.
