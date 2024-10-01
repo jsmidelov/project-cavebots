@@ -2,13 +2,21 @@
 
 ## Prolog
 
-Människa-Maskinkriget, Slaget vid STAD, två månader och tretton dagar in. STAD ligger i ett bergspass, och skulle maskinerna bryta igenom här vore människornas kommandocentral exponerad. De Sju sätts därför in för att bryta maskinernas samordning och logistik. De sätts ner längsmed bergen för att längsmed bergstopparna nå bakom maskinernas linjer. En är central för insatsen för att samordna enheten.
-De lyckas flankera utan större motstånd, och når maskinernas sambandsbas.  Vid portarna ställs de mot Elitserien. Här får de behörighet till sina största puffror, men även Elitseriens enheter har tagit fram sina största kanoner, och de båda grupperna åsamkar snabbt stor ödeläggelse över en stor yta. Detta har främst skadat maskinernas läger, som ju var näraliggande, och de tvingas till reträtt.
-Människorna har därmed vunnit dagen, och kan flytta fram sina positioner. De Sju belönas med utmärkelser.
-Noteringar
-Medan de gått under jorden vinner så sakteliga fienden till den grad att de bosätter sig själva på hemvärlden och integrerar sig i dess befolkning. En ny era inleds, med de som härskare. Men även de skulle komma att se sin uppgång leda i förfall, och behöver till slut dra sig undan.
+Människa-Maskinkriget, Slaget vid STAD, två månader och tretton dagar in. STAD ligger i ett bergspass, och skulle maskinerna bryta igenom här vore människornas kommandocentral exponerad och mänskligheten över hela hemvärlden i fara. De Sju sätts därför in för att bryta maskinernas samordning och logistik. Från ett koloniskepp-omvandlat-till-stridsskepp i omloppsbana glidflyger de ner, och landar på ett högt berg för att längsmed bergstopparna nå bakom maskinernas linjer. En är central för insatsen för att samordna enheten.
 
-Hemvärldens nya hybridfolk dominerar numera, men de är splittrade mellan flera riken som ofta slåss mellan varandra. När androiderna vaknar upp är de i just ett sådant storkrig. Samtidigt hotar den strövande horden i norr, som söker nya marker. Dessutom drabbas kontinenten av räder från ett okänt hot som kommer visa sig vara androider från en annan kontinent. Androiderna vaknar däremot upp ovetandes om allt detta, så efter att ha insett att deras gamla mål är långt bort kommer de fram till att först utforska läget och sedan utvärdera relevansen av det gamla målet.
+De lyckas flankera utan större motstånd, och når maskinernas sambandsbas.  Vid portarna ställs de mot Elitserien. När de gör begär de behörighet till sina största puffror, vilket beviljas. Men även Elitseriens enheter har tagit fram sina största kanoner, och medan De Sju och Golems slåss hinner de båda grupperna åsamka stor ödeläggelse över närområdet. Detta har främst skadat maskinernas läger, som ju var just i närheten, och när omloppselden väl slår ner tvingas Elitserien till reträtt.
+Människorna har därmed vunnit dagen, och kan flytta fram sina positioner. De Sju belönas med utmärkelser, varpå de hedersamt leds till ett läger för återuppskjutning.
+
+### Noteringar
+
+Efter att androiderna gick under jorden vinner så sakteliga maskinerna mark, men assimilerar sig själva över tid i allt från människornas kulturer och drivkrafter till luften och vattnet, till punkten att de blir närmast osynliga, medan kunskapen om hur de fungerar försvinner. En ny era inleds, där människor med starkast förmåga att hantera maskiner - eller magi, som den nya tiden ser det - bubblar upp till härskare.
+Samtidigt har de ödmjuka kolonier flottan fraktade folk från hemvärlden etablerat sig, och med tid vuxit till egna civilisationer med egna konflikter, som hålls samman genom Stellar-federationen. En gemensam oro för de alla, som aldrig försvann, var att hemvärlden skulle kunna "resa sig" ur ruinerna och hota dem alla. Så den ödmjuka flottan har skepp för skepp förstärkts med spaningskepp och insatsstyrkor för att knuffa hemvärlden bort ifrån att någonsin nå en annan himlakropp.
+
+Och på denna väg fick även denna era sin uppgång - som genom kriser och framgångar till slut ledde mot skyarna - in i ett dramatisk fall, då Stellar-erna slog ned på dem med full kraft tills bara spridda småriken återstod.
+
+När androiderna vaknar upp är hemvärldens nya folk i kölvattnet av chockvågorna. Ett storrike har hunnit uppstå som utger sig för att vara sista försvarslinjen för eran, medan småstater i periferin menar att de kan sköta sig själva bättre. Samtidigt hotar en strövande hord i norr, som söker nya marker. Dessutom drabbas kontinenten av blixtar från klar himmel (Stellar-ernas insatsstyrkor) och räder från bortom vattnet (androider från en annan kontinent, som såg kriget till dess slut men aldrig gett upp).
+
+Androiderna vaknar däremot upp ovetandes om allt detta, så efter att ha insett att deras gamla mål är långt bort kommer de fram till att först utforska läget och sedan utvärdera relevansen av det gamla målet.
 
 ## Akt 1
 

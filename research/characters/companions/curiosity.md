@@ -3,6 +3,7 @@
 Curiosity is the “nerd” of the team, ever curious about how this world works and why. He has been provided the best scientific intuition of the ancient world, and a lexicon of knowledge to draw from. He specializes in putting two and two together, inferring the implied, and determining what is likely and not. Among the things he learned is much magical skills of the Arcane age.
 
 ## Names
+
 Svenska:
     - Niklas
     - Nicke (som i "Nicke Nyfiken")
