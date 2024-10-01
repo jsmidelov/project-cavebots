@@ -1,0 +1,10 @@
+@media (width < 720px) {
+    :root {
+        --speech-box-width: 100%;
+        --portrait-right: 100%;
+    }
+}
+:root {
+    --speech-box-width: 720px;
+    --portrait-right: 50%;
+}

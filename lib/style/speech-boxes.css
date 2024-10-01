@@ -21,7 +21,7 @@ speech-box {
 speech-box[tone='happy']::after{
     content: '😀';
 }
-speech-box[character="narrator"] {
+speech-box[character="berättare"] {
     color: var(--narrated-text-color);
     background-color: var(--narrated-textbox-color);
 }

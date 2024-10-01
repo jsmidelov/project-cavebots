@@ -5,7 +5,7 @@ Andrei specializes in heavy weapons and artillery. He is equipped with a wide ar
 ## Names
 
 Formal name: Andrei (of Ancient Greek for courage)
-Called by the team: --
+Called by the team: ???
 
 ## Personality
 

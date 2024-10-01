@@ -3,8 +3,12 @@
 Curiosity is the “nerd” of the team, ever curious about how this world works and why. He has been provided the best scientific intuition of the ancient world, and a lexicon of knowledge to draw from. He specializes in putting two and two together, inferring the implied, and determining what is likely and not. Among the things he learned is much magical skills of the Arcane age.
 
 ## Names
-Formal name: Curiosity (eng, because I was too lazy to find the latin/old-greek word)
-Called by team: Curio
+Svenska:
+    - Niklas
+    - Nicke (som i "Nicke Nyfiken")
+Engelska:
+    - Curiosity (it's english, because I was too lazy to find the latin/old-greek word)
+    - Curio
 
 ## Personality
 
