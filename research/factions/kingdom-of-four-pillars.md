@@ -1,6 +1,6 @@
-# The Empire of the four pillars
+# The Kingdom of the four pillars
 
-The Empire of the Four Pillars (EFP) has an elected king and price with staggered 10-year terms (i.e. the Prince is elected on the King's 5th year). The King acts as the head of state (ie "executive branch"), and the Prince the head of government, with co-signing required between the King and Prince on issues of particular severity. This executive branch is also restricted in terms of only controlling the end goals of the public institutions on the Kingdom level (the same division also applies to Dutches on the dutchy level, and Counts on the county level).
+The Kingdom of the Four Pillars (EFP) has an elected king and price with staggered 10-year terms (i.e. the Prince is elected on the King's 5th year). The King acts as the head of state (ie "executive branch"), and the Prince the head of government, with co-signing required between the King and Prince on issues of particular severity. This executive branch is also restricted in terms of only controlling the end goals of the public institutions on the Kingdom level (the same division also applies to Dutches on the dutchy level, and Counts on the county level).
 
 The "legislative branch" is where the Four Pillars come in. Each of the pillars has their own chamber and election, and are balanced to prevent descisions being made without broad and lasting public support.
 
