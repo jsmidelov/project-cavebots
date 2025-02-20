@@ -6,13 +6,13 @@ The golems has its origins in the man-machine war and the fall of the first age,
 
 ## Interstellar intermission
 
-In the wake of the first age, they found themselves commanded by the Stellar federation, and sent as vanguards in geomorphing projects around the solar system until "real people" could move in. This experience gave them ample knowledge of the system's various plants and moons, but also deep scars of the brutality of the Stellars.
+In the wake of the first age, they found themselves commanded by the Stellar federation, and sent as vanguards in geo-morphing projects around the solar system until "real people" could move in. This experience gave them ample knowledge of the system's various plants and moons, but also deep scars of the brutality of the Stellars.
 
 When all all planets and moons they held interest in were habitable enough to colonize, the Stellars sent the Golems to monitor the cradle world and send warning if civilization there was becoming advanced enough to reach beyond their gravitational pull (and thereby pose a threat to the federation again)
 
 ## Arcane Age
 
-Instead, they organized a resistance on the cradle world and gathered the various realms for peace and reconcilliation. When they finally took their first steps towards orbital satellites and a first moon base, the Stellars discovered their "conspiracy", and struck down on the cradle world with a "bomb back to the stone age" campaign aimed at hunting down the Golems specifically. So the Golems went deep into hiding, and were never fully discovered.
+Instead, they organized a resistance on the cradle world and gathered the various realms for peace and reconciliation. When they finally took their first steps towards orbital satellites and a first moon base, the Stellars discovered their "conspiracy", and struck down on the cradle world with a "bomb back to the stone age" campaign aimed at hunting down the Golems specifically. So the Golems went deep into hiding, and were never fully discovered.
 
 ## Current Age
 
@@ -22,7 +22,7 @@ In the Current Age, they serve as advisors and protectors of the most important 
 
 ## In the time of our story
 
-The recent unearthing of the Androids thus presents both an opportunity and a threat. On one hand, their actions push towards rapid unity, which they fear would incur another Stellar campaign. On the other hand, they might hold knowledge and experience about tools lost during the Arcane age, which the Stellars would understand and be deterred by, providing an ace up their sleves.
+The recent unearthing of the Androids thus presents both an opportunity and a threat. On one hand, their actions push towards rapid unity, which they fear would incur another Stellar campaign. On the other hand, they might hold knowledge and experience about tools lost during the Arcane age, which the Stellars would understand and be deterred by, providing an ace up their sleeves.
 
 So over the corse of the story, the Golems will prod at the androids to understand how well they know the big picture and if they would be potential allies. The androids take this as mysterious taunting.
 
