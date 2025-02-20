@@ -1,4 +1,5 @@
 # Golem scout and spy
+
 Working title: Shadow
 
 The golem spy scout is intelligent and cunning, but because of that (and their role) mistrustful bordering on the paranoid and potentially ruthless.
