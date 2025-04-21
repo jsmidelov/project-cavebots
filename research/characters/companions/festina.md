@@ -10,7 +10,11 @@ Called by team: Festi
 
 In the team, she holds something of a “little sister” role. Usually cheerful and one to lighten the mood with a joke, and an intentional disinterest in political details make her the moral compass of the team. Her cheerfulness can sometimes go a bit too far, however, and she can come off as insensitive to serious situations or tragedy.
 
-Part of this joy is genuine relief and delight to travel with the others again, but at its core there it also hides scars she got by being the first to awaken, and having to give up on parties f  and wandering the world alone watching the Magical age come crashing down.
+Part of this joy is genuine relief and delight to travel with the others again, but at its core there it also hides scars she got by being the first to awaken, and wandering the world alone watching the Magical age come crashing down.
+
+## Story arc
+Her arc, thus, to use hegelian dialect, is about growing from the thesis about light-heartedness, into the antithesis about growing up - e.g. taking serious things seriously, handling misfortune and shoulder responsibility.
+And lastly finding the synthesis - taking serious things seriously, but also cheering others up and on.
 
 ## Overworld
 

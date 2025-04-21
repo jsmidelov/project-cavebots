@@ -19,7 +19,9 @@ Within the team, he holds something of a “little brother” role, ever the tar
 
 ## Story arc
 
-Because he over-estimates quantitative knowledge and under-estimates soft skills, he can run into believing everyone finds his learning process as important as he does, and expressing them precisely to be as important as he does, values which creates the situation the family mistakenly "rescues" him from. While digging through the mountain, he learns "to talk to peasants like peasants talk, and to the learned in latin". When En is captured by the golems at the end, his ability to "speak golem" helps diffuse the tension.
+Because he over-estimates intelligence and initially lacks wisdonm, he is stuck in a head full of ideas and ideals that makes sense on paper, but not in the world he now lives. This sets up the situation where the family mistakenly "rescues" him from the peace negotiation.
+
+His arc thus becomes to learn the value of wisdom, learn to be wise, and learn how to apply this wisdom.
 
 ## Overworld
 
