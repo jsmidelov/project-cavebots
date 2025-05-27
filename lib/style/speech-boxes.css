@@ -18,6 +18,17 @@ speech-box {
     border: 1px solid var(--base-text-color);
 }
 
+speech-box[message] {
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    background-color: greenyellow;
+}
+
+speech-box[thought] {
+    border: 2px dotted var(--base-text-color);
+    border-radius: 20px;
+}
+
 speech-box[tone='happy']::after{
     content: '😀';
 }
