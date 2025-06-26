@@ -3,7 +3,17 @@
 With the band back together, the team can finally confront the Golems and end the war.
 
 The team gathers in the Fortress - now a thriving city as well as fortress true to its name - to make a plan.
-However, the meeting gets interrupted when the Golems bust in with Curiosity in tow.
+
+The group has two immediate objectives - confront the golems, and stop the war before the looming battle breaks out in earnest. There is not a lot of time, and both objectives will be difficult.
+So how do they solve this?
+Sophia and Andrei are deep in thought. Temperantia and Fortitudo throw out ideas, most of them involves combat. Festina suggests flipping the script, and trapping the Golems between the armies to force a stalemate. Curiosity then asks "Why not just call them, and hear them out? We got sufficient defences here to force them out should a fight break out."
+
+"We can do that? That would solve so many problems."
+"Wait, they've done nothing to stand in our way. Why would they be open to help us out?"
+Festina: "We can't just _invite_ them, this is supposed to be a secret hideout! They'd know where we live"
+Curiosity: "Wait, you still think that? I thought you had this figured out"
+Festina: "Figured this out? Wait, you don't mean..."
+
 They've tested the Androids consistently over their adventures, and have the answers they wanted. Now they wish to test if the Androdis have theirs.
 
 First, they ask, have the Androids figured out why the Golems have been prodding at them? Andrei states they've been tested for strength and tactics, and Sophia that they've been tested for if their loyalty to humanity remains.
@@ -65,4 +75,27 @@ But Sophia is still suspicous. "Hold on a second. By Ockham's Razor, the far sim
 
 "We're not sure we have. We've suffered many defeats, changed so many parts, so much of what we were, the only thing remaining from that time are our names".
 ---
-En takes the risk of being the first, climbs back into the tube they woke up from. To their surprise, they see the grips for hands and click-ins for the feet, and buttons lighting up in front of them. As they click something familiar, telling them to activate, a construction at the back lifts them up around their core a decimeter or so to keep them suspended mid-air with no tension, thus allowing frictionless movement of arms and legs.
+En takes the risk of being the first, climbs back into the tube they woke up from. To their surprise, they see the grips for hands and click-ins for the feet, and buttons lighting up in front of them. As they click something familiar, telling them to activate, a construction at the back lifts them up around their core a decimeter or so to keep them suspended mid-air with no tension, thus allowing frictionless movement of arms and legs. The cockpit closes, and the visor descends over the cockpit, revealing a dashboard of monitors on its inside with all kinds of views and sensors. "Woah", en gasps, "small wonder they could always see where we were!"
+
+Around this time, the others have climbed into their cockpits as well, while the Golems have snuck out to the entrance.
+
+"I'm sure you're thinking of a grant sortie, but I'm sure you've noticed this is a workshop, not the hangar. While made some space in the hanger, but let's just say our plan still has one major risk - we could never feel sure you wouldn't turn on us right about now."
+
+En has to ask, of course - "What do you say, team?"
+Andrei: "I don't see any clear flaws in their story, but this is a lot to take in."
+Sophia: "You could say that. We're not who we always believed we were, they were never the enemy, knew our self-styled home better than we did - heck, they _built_ the place - and all for a cause we've just begun to understand?"
+Andrei: "The cause is the same as always, though? To protect humanity. Even if these Stellars are humans, doesn't change the fact the people here are _our_ humans?"
+Temperantia: "So we have a country now? As I recall, 'humanity' always referred to _all of_ humanity."
+Fortitudo: "But if what the Golems say is true - and I believe them - then these are the humanity we _can_ protect. Even if the Stellars are humans, they seem neither in need of our protection, nor within reach for us to protect. In fact, they sound more like the primary existential threat the humans we can protect face. And allying with the Golems would serve that aim better than stay opponents."
+Andrei: "Well said, Temp."
+Curiosity: "I for one drew the same conclusion Fortitudo just did, and I'm sorry I couldn't tell you. I've done all I can to speed up your progress to this point, but lke they said, you had to get here on your own"
+Festina: "Well, can't say I never suspected anything - an information gathering network tends to make you informed, after all. Still, they could never have guessed the story went this deep or far back. I'm impressed, more than anything!"
+Temperantia: "I agree with Fortitudo, allying with the Golems to protect the humanity we can aligns best with the spirit with our mission, and maybe one day we can extend this protection to the Stellars themselves"
+Sophia: "I suppose we did see the world like they asked. We saw the state humanity is in, or at least some of it. To me the goal is clear - we need to settle this conflict. Just give me the time to work through this identity crisis afterwards."
+En: "Sounds we're in agreement. "
+
+"Golems - makers, imagined old foes, newfound friends - we agree to assist you and once again take up our old mantle, no matter if it's imagined or real."
+
+A wave of relief sweeps through the group at the entrance
+
+"Then lets get your Knights to the hangar. We've got a battle to prevent!"
