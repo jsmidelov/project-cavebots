@@ -6,65 +6,87 @@ The team gathers in the Fortress - now a thriving city as well as fortress true 
 
 The group has two immediate objectives - confront the golems, and stop the war before the looming battle breaks out in earnest. There is not a lot of time, and both objectives will be difficult.
 So how do they solve this?
-Sophia and Andrei are deep in thought. Temperantia and Fortitudo throw out ideas, most of them involves combat. Festina suggests flipping the script, and trapping the Golems between the armies to force a stalemate. Curiosity then asks "Why not just call them, and hear them out? We got sufficient defences here to force them out should a fight break out."
+En, Sophia and Temperantia are deep in thought. Andrei and Fortitudo throw out ideas, all of which involves combat. Festina suggests flipping the script, and trapping the Golems between the armies to force a stalemate. Curiosity then asks "Why not just call them, and hear them out? We got sufficient defences here to force them out should a fight break out."
 
 "We can do that? That would solve so many problems."
-"Wait, they've done nothing to stand in our way. Why would they be open to help us out?"
+"Wait, they've done nothing but stand in our way. Why would they be open to help us out?"
 Festina: "We can't just _invite_ them, this is supposed to be a secret hideout! They'd know where we live"
 Curiosity: "Wait, you still think that? I thought you had this figured out"
 Festina: "Figured this out? Wait, you don't mean..."
 
-They've tested the Androids consistently over their adventures, and have the answers they wanted. Now they wish to test if the Androdis have theirs.
+As she says this, there is an incoming alarm from the gate keeps - "Sirs, an unidentified group just showed up unannounced at the gates. They claim you want to see them. Please confirm."
+Curiosity asks for a description
+"Well, they look a lot like stone slabs that walk by some magic stuff piecing them together"
+Curisoty replies "I'll come and meet them by the entrance"
+And, before he leaves, adds "Please don't view this as a betrayal, guys. I'm positive you'll appreciate this by the time they leave".
 
-First, they ask, have the Androids figured out why the Golems have been prodding at them? Andrei states they've been tested for strength and tactics, and Sophia that they've been tested for if their loyalty to humanity remains.
-The Golems nod, but also ask Curiosity. He can't know, of course - he hasn't been there - but wager to guess it's also to measure them to the Androids of old and how well they get intel on their own.
+As he's away, the others can't help but feel a bit upset anyway. He went ahead of them and _called them_ - _here_ - without even asking for their agreement! They settle into trusting his call; he's figured things out before they have all this time, after all.
 
-To this the Golems note the picture is almost complete, but missing a crucial piece: If they can enter the Fortress now, the whole crew assembled, without resistance, why do they think they didn't take them out while they were alone, or moved on the Fortress while they were away?
-This has the Androids thinking for a while, but Festina is the one to figure this out: The Golems were never hostile, and there is something here they all had to see together.
+Curiosity comes back, Golems in tow, who fit through the doors surprisingly well for their size.
+The golem leader starts speaking first. They have tested the Androids consistently over their adventures, and have the answers they wanted. Now they wish to know if the Androdis have theirs.
 
-The Golem leader looks equal parts surprised and happy about the answer and suggest they follow him. The golems bring the androids further into the Fortress, towards a door they've yet opened, and press their hands to buttons tailor-made for the Golems.
-They enter a large elevator, and on the way down the leader explains: The golems oversaw the world during the Arcane age, and saw it thrive. However, once it embarked upon the stars, the Stellars showed up and made the world a wasteland.
-The golems themselves survived, and realized they needed a plan to beat them back should the world ever be free of this threat.
-So they built a cannon large enough to sink a whole fleet should they need to, with sufficient material to defend it from any attacker.
-And some escape tunnel to get anywhere else should that not be enough.
+First, they ask, have the Androids figured out why the Golems have been testing them like this? Andrei states they've been tested for strength and tactics, and Sophia that they've been tested for if their loyalty to humanity remains.
+The Golems nod, but also ask Curiosity. While he hasn't been there, that fact suggests to him it's also to measure them up to the Androids of old, and how well they figure things out on their own.
+
+To this the Golems note their picture is almost complete, but missing a crucial piece: If they can simply walk into the Fortress, with the whole crew assembled, without fearing a fight, why do they think they didn't take them out while they were alone, or moved on the Fortress while they were away?
+Festina is the one to say the quiet part out loud: The Golems were never hostile, and there is something here they all had to see together.
+
+"That is indeed the case. I'd like to show you why that is, an answer that resides within these very walls. Would you like to escort us there?"
+The Androids agree and form a escort procession around the Androids - awkwardly, since it's the escorted dictating where to go - and come to a door they've yet opened. The Golems press their hands to buttons tailor-made for them.
+They enter a large elevator, and activate it to descend.
+"Have you ever looked into the details of that age you were gone? While the world after the Man-Machine war was a barren wasteland, man and machine found unexpected new ways to collaborate. What came out of it, over centurites, was a time of magic and wonders, and of prosperity never before known. We just called it a Reinnesense at the time, but these days we know it as the Arcane Age."
+"As the last remains of the Age of Steel, we eventually found our role to guide and coach the powers that were. A sort of custodians and gardeners for the new world. And when our mechanical bodies slowly grew rusty and needed repairs, the peoples provided us something they found fit our roles better."
+"Anyway, civilization of this Reinnesanse eventually found ways to not just fly, but to reach for the stars. And that was to be the beginning of their end"
+"Because while we had gone to hell and back, the old colonists had developed at the speed we would had the Man-Machine war never occurred, into what we call the Stellars, and developed means to observe us from orbit and, it would turn out, to bombard us. They held the high ground, and were determined to drown us in fire."
+"They hunted us down best they could - you weren't around to be hunted, as you may know - but we managed to stay alive. Yet when they were done, the destruction was unlike any we've ever seen - Man-Machine war included. And so, we realized that if civilization ever recovered again, it would need means to fight off the Stellars should they ever return"
+"Which turned into... this"
 
 As they say this, a massive chamber comes into view from the elevantor. Large missile silos cover the chamber, with a central apparatus seemingly designed to fetch any of them and fire towards the heavens.
 
-The fortress, they reveal, is that cannon.
+"While they hold the high ground, and would likely rather drown us in another fire than yield it, we found a way to shoot them down should we need it. A cannon large enough to fire bullets into higher orbits, and if our simulations are correct, a way for said bullets to them intercept and down any ship they would throw at us."
+"To keep this available, we designed an installation large enough to defend it from any kind of attack we could think of, and hide a metropolis large enough to support it for perpetuity should it ever be sieged."
+
+"Or as we've learned you call it, the Fortress. A fitting name, actually."
 
 The androids are awed. They had never guessed they sat on top of something this important, or that the Golems held these keys.
 
-One of them can't help but ask, why this sudden change of heart? They opened up being hostile, even kidnapped Curiosity, but now they suddenly tell them all this just as they were planning to confront them? 
+"Hold on, let me get this straight." Sophia finally asks. "You've built a hidden metropolis fortress, with a hidden cannon capable of fighting even the most far-flung enemy, only to abandon it to a group that has reason to find you hostile, give them new reason to do so, and scatter yourselves to the wind? And now you return, once said group are firmly entrenched and consolidated, and profess friendship? Why would I believe any of this, rather than just call some guards and imprison you forever?"
 
-To this, they have another thing to show, and another place they have to be. As they take the elevator back up, the Golem leader starts to tell a story:
+"Well, there is one more thing. It wouldn't make much sense unless we showed this first - still might not, actually. Please hear me out one more time, and if you're not still uncertain, I'll willingly go to that prison you mentioned. I think I know the way."
 
-Soon after the Arcane age ended, they found a means to defend against the Stellars. But needed pilots suitable to that role, and they could imagine none better to the role than the Androids who once defeated them to do just that.
-However, those Androids had long rusted and dilapidated, and their successors were rusted husks of the real things, as well as computationally restrained to lack the character and experience the original Androids.
-So as they found bits and pieces in good condition, to assemble prime samples of the Android models, they also painstakingly reverse-engineered their personalities back.
+"Well, at least you're a master of hooks. Shoot."
+
+They walk back to the elevator, and start ascending back.
+
+"When the Stellars ended the Arcane Age, it wasn't simply orbital bombardment. They must have had their fair share of politics, conflicts and wars, because they had ways to get down the atmosphere, and patrol the skies. They likely have ways to monitor the seas and land, as well, even if we're as of yet aware of them. As we resisted, we found that while the simple "soldier units" were fully autonomous, the units organizing them - the "officer units" or knights, if you will - were piloted. By androids."
+"So we figured, if we could recover these knights, perhaps we could turn them over to defend humanity. And if we could do that, who would be the perfect pilots to defend humanity? Why, the only ones who bested us, so long ago in the Man-Machine war!"
+
+"There was just a minor detail. Time waits for no one, and while we sustained ourselves with changing metal with stones, those Androids of eld were locked away in statis. By the time we found them, they had rusted beyond repair, and any interface or protocol used in those days had been lost to time. The best we could do was reverse-engineer the parts we had experienced with records we could find, and hope they restored themselves correctly. And when they did not, we had to eliminate them, evaluate and iterate."
 
 The elevator reaches its destination. The floor they came from. The Golems take a turn... away from the entrance.
 
-As they progressed, they started to remember there was a major risk involved. Should they reawaken the perfect copy, said copy would view them as mortal enemies, and the whole plan could backfire spectacularly.
-So they needed to travel the world, while monitored of course, and be left to figure things out for themselves before being ready to listen.
+"Of course, as we got closer to personalities resembling those Androids, we realized the obvious. The Androids viewed us as mortal enemies, and the whole plan could backfire spectacularly. They needed a way to get the right impressions and experiences to open up for persuation. And so, we laid the breadcrumbs for your breadcrumbs, ever monitoring you terminate you should we have to. That is the antagonism you've experienced so far.
 
 The androids are shocked. How could they accept this story, when they've done nothing but obstruct and hunted them?
 
-"May I finally speak now?" Curiosity asks the Golems, and recieves a nod of approval. He had figured it out in the blink of an eye of awakening, but had been warned into silence. They've merely been testing your progress. Note how they just left you be when they bested you, rather than finish you off like an enemy would. And note how every time they obstructed you, you went out into the world and discovered something about it. He had wanted to tell you, but was strictly warned not to. Thankfully, he got interested in the Fortress instead, and got too distracted. 
-
-The story sinks in, but they naturally still harbour doubts. So of course they ask for proof.
+"May I finally speak now?" Curiosity asks the Golems, and recieves a nod of approval. He had figured it out in the blink of an eye of awakening, but had been warned into silence. They've been testing your progress. Note how they left clear holes for us to defeat them by, and challenged them to open duels rather than overwhelming ambushes? And how every time they obstructed us, we went out into the world and discovered something about it that let us win next time. He had wanted to tell you, but was strictly warned not to. Thankfully, he got interested in the Fortress instead, and got too distracted. 
 
 They've been tracking their way back some awfully familiar corridors, spider webby as they are.
 
+The story sinks in, but they naturally still harbour doubts. So of course they ask for proof.
+
 "Simple", the first Golem says, "our whole story hinges upon two truths, does it not? First, that you really are the Androids of old - even though you should have noticed how impossible that must be"
---- Side-conversation ---
-Festina notes, "Yeah.. I could only build my network thanks to the legends I - no, Festina's - had left behind"
----
-The chamber with the pods where they first woke up. One of the golems cast an invokation, effectively saying "lights on!" - the room lights up, and they spot that the pods were never attached to any wall, but to Light Knights, who without their blinding radiance turns out to be very large mechas.
+
+"Yeah..", Festina notes solemnly, "I could only build my network thanks to the legends I - no, previous Festinas - had left behind"
+
+They reach a familiar chamber - the one with the pods where they first woke up!
+
+One of the golems cast an invokation, effectively saying "lights on!" - the room lights up, and they spot that the pods were never attached to any wall, but to Light Knights, who without their blinding radiance turns out to be very large mechas.
 "And secondly: These. If what we've told you is true, you are able to pilot these Knights. Something the Androids of old would never have been able to, since the Stellar federation had yet to form, and the Light Knights not even imaginable at their time."
 
-The Golem tell the story how they very slowly, and over time, manages to set traps for Light Knight, isolate them, defeat them, then drag them to the Fortress to salvage them. These would be invaluable should the Stellars decide to come back in force.
+"Let me tell you, hunting these down were no easy feat. It's really a story for another time, and maybe a skill we should teach you. Having more of these would be invaluable should the Stellars decide to come back in force."
 
-"So climb in, activate your Knight, and you should have all evidence you need".
+"But for now: Climb in, claim your Knight, and you should have all the proof you need".
 
 --- Side-conversation ---
 But Sophia is still suspicous. "Hold on a second. By Ockham's Razor, the far simpler story is someone installed an update to let us drive these"
@@ -73,13 +95,13 @@ But Sophia is still suspicous. "Hold on a second. By Ockham's Razor, the far sim
 
 "And if the Androids' survival are such an impossibility, how did you survive then?" Sophia continues
 
-"We're not sure we have. We've suffered many defeats, changed so many parts, so much of what we were, the only thing remaining from that time are our names".
+"You assume we have, but we're not so sure. We've changed so many parts, so much of what we were, the only thing remaining from that time are our names".
 ---
-En takes the risk of being the first, climbs back into the tube they woke up from. To their surprise, they see the grips for hands and click-ins for the feet, and buttons lighting up in front of them. As they click something familiar, telling them to activate, a construction at the back lifts them up around their core a decimeter or so to keep them suspended mid-air with no tension, thus allowing frictionless movement of arms and legs. The cockpit closes, and the visor descends over the cockpit, revealing a dashboard of monitors on its inside with all kinds of views and sensors. "Woah", en gasps, "small wonder they could always see where we were!"
+En takes the risk of being the first, climbs back into the tube they woke up from. To their surprise, they see the grips for hands and click-ins for the feet, and buttons lighting up in front of them. As they click something familiar, telling them to activate, a construction at the back lifts them up around their core a decimeter or so to keep them suspended mid-air with no tension, thus allowing frictionless movement of arms and legs. The cockpit closes, and the visor descends over the cockpit, revealing a dashboard of monitors on its inside with all kinds of views and sensors. "Woah", En gasps, "small wonder they could always see where we were!"
 
 Around this time, the others have climbed into their cockpits as well, while the Golems have snuck out to the entrance.
 
-"I'm sure you're thinking of a grant sortie, but I'm sure you've noticed this is a workshop, not the hangar. While made some space in the hanger, but let's just say our plan still has one major risk - we could never feel sure you wouldn't turn on us right about now."
+"I'm sure you're thinking of a grant sortie, or turning on us, but I'm sure you've noticed this is a workshop. If any one of you open fire right now, you will only end each other."
 
 En has to ask, of course - "What do you say, team?"
 Andrei: "I don't see any clear flaws in their story, but this is a lot to take in."
@@ -96,6 +118,6 @@ En: "Sounds we're in agreement. "
 
 "Golems - makers, imagined old foes, newfound friends - we agree to assist you and once again take up our old mantle, no matter if it's imagined or real."
 
-A wave of relief sweeps through the group at the entrance
+A wave of relief sweeps through the group at the entrance.
 
-"Then lets get your Knights to the hangar. We've got a battle to prevent!"
+"Finally. Then let's get your Knights to the hangar. We've got a battle to prevent!"
