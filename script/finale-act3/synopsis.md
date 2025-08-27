@@ -1,5 +1,6 @@
 # Synopsis for Act 3 / Finale
 
+## Fortress
 With the band back together, the team can finally confront the Golems and end the war.
 
 The team gathers in the Fortress - now a thriving city as well as fortress true to its name - to make a plan.
@@ -20,7 +21,7 @@ Curiosity asks for a description
 Curisoty replies "I'll come and meet them by the entrance"
 And, before he leaves, adds "Please don't view this as a betrayal, guys. I'm positive you'll appreciate this by the time they leave".
 
-As he's away, the others can't help but feel a bit upset anyway. He went ahead of them and _called them_ - _here_ - without even asking for their agreement! They settle into trusting his call; he's figured things out before they have all this time, after all.
+As he's away, the others can't help but feel a bit upset anyway. He went ahead of them and _called them_ - _here_ - without even getting their agreement! They settle into trusting his call; he's figured things out before they have all this time, after all.
 
 Curiosity comes back, Golems in tow, who fit through the doors surprisingly well for their size.
 The golem leader starts speaking first. They have tested the Androids consistently over their adventures, and have the answers they wanted. Now they wish to know if the Androdis have theirs.
@@ -121,3 +122,20 @@ En: "Sounds we're in agreement. "
 A wave of relief sweeps through the group at the entrance.
 
 "Finally. Then let's get your Knights to the hangar. We've got a battle to prevent!"
+
+## Field of last stands
+
+After the Golems and Androids moved the Light Knights to a proper hangar, the two teams set off, one Golem riding with each Android's knight. They start mobilizing the entire fortress, but make sure to be the vanguard themselves. They all fly off to a field (of some sort - it's important somehow, but I don't bother to figure out how just now) where the Empire and Kingdom have set up for an important battle. They arrive by early nightfall, rendering light upon a wide field with palpable tension.
+
+The Kingdom have taken very defensible positions along some strategic point the Empire would have to breach. The generals still work by their warfighting logic, but since we've changed the leadership on both sides to friends open to peace, the plan is to simply keep the forces apart until the leaders can arrive and talk them down - with some potential encouragement from no less then seven light knights.
+
+The first objective is to simply push the sides back without panicking. Just one knight is cause for untold havoc, and here's a whole flight of them. This turns a bit into an exercise of herding sheep, using loudspeakers to warn, and some warning shots to demonstrate power and willingness to use it. This successfully cause the Empire soldiers to back off and cause a wide enough corridor to prevent any immediate exchange of fire.
+
+The second objective is to patrol this space while waiting for leadership of Empire, Kingdom _and_ City to show up - which Temperantia, Fortiitudo and Festina is sent to respective camp to ensure - and design a proposal all sides can prefer over continue fighting. Sophia, Curiosity and some of the Golems focus on the latter, leaving En and Andrei to patrol the new "no man's land" they've made to ensure nobody gets funny ideas until the rest of the Fortress staff join them to assist. Said assistance is also meant to display "we can outgun you no matter where you go".
+
+Eventually, Temp returns with the general from the Kingdom and the new King (or was it Prince? I can't recall right now), Forti returns with the Imperial general and the newly crowned Empress, and Festina returns with the City's Mayor.
+
+Sophia takes the word first: "Welcome, royals and representatives. I'll speak plain - this conflict has gone on long enough. We all know your predecessors were open to keep this up, and also that you are more open to change that. While we're humble to the fact we would not be here were there a simple solution, we have made a draft we hope serves as a starting point. Before you see the proposal, I'd like to give the floor to the Golem Leader, who will explain the wider context we see."
+
+The golem leader takes the word: "Thank you. To begin with a reminder, the world was thoroughly shaken by the end of the Arcane Age. While we like to think of our continent, and the order here on, there are others. We don't know how they fared, but we fear they did better, and that any of them could divide and conquer us if we let them. There are also the hordes in the north, who are on the move. Lastly, the force causing the end of the Arcane Age - the Stellar Federation - are still watching us closely from orbit, and seem bent to keep us disorganized. To throw them off, we must defeat them in those aims. It is with these things in mind we ask you read this proposal."
+
