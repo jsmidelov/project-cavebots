@@ -2,6 +2,41 @@
 
 ## I punktform
 
+## Andra utkast
+Temat är "där det finns frihet finns det hopp". Skärgårdsstaden är menat som en illustration där det är fallet. I en klassisk "rädda staden"-berättelse värdig Spider-Man hotas friheten - och därmed hoppet - av en skurk med en ond plan.
+
+### Prolog
+Teamet utforskar grottan, och upptäcker ett garage, vars fordon kan ta dem vidare söderut (Vänta, varför är dem där till att börja med?)
+
+### Akt 1
+- De behöver korsa frontlinjen längsmed ingemansland.
+- De når till slut staden, en fyrbåk för hopp i en svår tid.
+- Staden hyser viss skräck över ett upprorisk maffia, där särskilt en förgrundsgestalt de kallar "Höken" oroar.
+- Folket sätter också hopp till superhjälten "Spindel-Tarzan" (jag behöver ett alias) som bekämpar dem.
+- För att nå Borgmästaren behöver de bli politiskt gynnsamma att träffa. Hur blir de det?
+- Breaking News: Maffian har beslagtagit vapenlager för en månads leveranser planerade till Imperiet, och hotar att beslagta i revolutionär iver. Kommer Imperiet intervenera för att säkra sina leveranser?
+
+### Akt 2
+- Tydligen levereras inte vapen så mycket som att de smugglas ut av tillverkarna. Staden ser ut att ha en "säg inget, och vi ser inget"-policy, då det försäkrar deras neutralitet och säkerhet att balansera sidorna mot varandra, och beslaget riskerar att rikta någon - eller båda - parterna mot dem.
+- De möter "Spindel-Tarzan", som visar sig vara Festina! Hon har massor av agenter i nätverket, men det här nya utvecklingen kan göra det svårt för henne att få ut dem.
+- Hon har en plan, men behöver få staden att ge hennes agenter amnesti innan hon kan länka samman sina agenter med polisen. Själv får hon inte något möte med de hon behöver, och antar att hon kanske inte är så populär med polisen pga sin vigilantism, men de kanske har mer tur som nya ansikten?
+
+### Akt 3
+- Festinas nätverk av agenter i Maffian sätter upp en fälla som lockar Stadens poliskår till ett vapenlager när Maffian håller toppmöte där.
+- Detta kräver felfritt utförande, skulle lagret sätta fyr vore det livsfarligt för såväl poliskåren som de egna agenterna.
+- Polisen går in, och bland de deltagande i Maffians ledning är ingen mindre än borgmästaren själv!
+
+### Epilog
+- När borgmästaren arresteras vågar sig "Spindel-Tarzan" på en blick från ett tak. Det tar inte länge förrän polisen riktar strålkastaren dit, och ber henne närma sig. De är utom sig av förtjusning, och visar sig vara riktiga "fans"!
+- Vice borgmästaren, som förstås är i chock, skulle kunna tänka sig att starta en ny fredskonferens, men vill undvika att katastrofen från förra gången upprepar sig.
+- Festinas nätverk ansluter sig till Teamets sak, de kan expandera sin verksamhet till både Imperiet och Kungadömet.
+- Med vapenlagret beslagtaget måste Staden agera på sin formella hållning, som är att inte exporta åt någondera tills vidare.
+
+### Utvärdering
+Jag tycker mycket bättre om den här berättelsen! I sann "subvert cyberpunk"-anda ska den sättas upp som något potentiellt mörkt och skrämmande, men visa sig mynna ut i något riktigt mysigt hälsosamt och helylle. Jag är också glad att den stora skurken visar sig vara politikern, som försöker spela båda sidor av något spel som gett honom mer makt än lagen kunnat ge honom.
+
+## Första utkast
+
 ### Akt 1
 
 - Vårt lag följer floden - som kryllar av små båtar och fartyg - mot det kluvna berget, och genom bergspassagen
