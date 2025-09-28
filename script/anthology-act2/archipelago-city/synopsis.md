@@ -20,14 +20,18 @@ Teamet utforskar grottan, och upptäcker ett garage, vars fordon kan ta dem vida
 - Tydligen levereras inte vapen så mycket som att de smugglas ut av tillverkarna. Staden ser ut att ha en "säg inget, och vi ser inget"-policy, då det försäkrar deras neutralitet och säkerhet att balansera sidorna mot varandra, och beslaget riskerar att rikta någon - eller båda - parterna mot dem.
 - De möter "Spindel-Tarzan", som visar sig vara Festina! Hon har massor av agenter i nätverket, men det här nya utvecklingen kan göra det svårt för henne att få ut dem.
 - Hon har en plan, men behöver få staden att ge hennes agenter amnesti innan hon kan länka samman sina agenter med polisen. Själv får hon inte något möte med de hon behöver, och antar att hon kanske inte är så populär med polisen pga sin vigilantism, men de kanske har mer tur som nya ansikten?
+- Festinas nätverk av agenter i Maffian har planerat en fälla som lockar Stadens poliskår till ett vapenlager när Maffian håller toppmöte där.
+- Detta kräver felfritt utförande, skulle lagret sätta fyr vore det livsfarligt för såväl poliskåren som de egna agenterna.
+- Polisen går in
 
 ### Akt 3
-- Festinas nätverk av agenter i Maffian sätter upp en fälla som lockar Stadens poliskår till ett vapenlager när Maffian håller toppmöte där.
-- Detta kräver felfritt utförande, skulle lagret sätta fyr vore det livsfarligt för såväl poliskåren som de egna agenterna.
-- Polisen går in, och bland de deltagande i Maffians ledning är ingen mindre än borgmästaren själv!
+- Ledarna anade oråd, och kontaagenter rycker in. Planen är i kris!
+- Vårt team rycker in, och kaoset uppnår någon sorts jämviktsförhållande, men en strid i ett vapenlager är allt annat än önskvärt.
+- "Spindel-Tarzan" vågar sig på en blick från ett tak. Det tar inte länge förrän polisen riktar strålkastaren dit, och hon tvingas fly, rakt in i situationen.
+- Polisen lyckas, och bland de deltagande i Maffians ledning är ingen mindre än borgmästaren själv!
 
 ### Epilog
-- När borgmästaren arresteras vågar sig "Spindel-Tarzan" på en blick från ett tak. Det tar inte länge förrän polisen riktar strålkastaren dit, och ber henne närma sig. De är utom sig av förtjusning, och visar sig vara riktiga "fans"!
+- När borgmästaren arresteras vågar sig "Spindel-Tarzan" ut ur lokalen. Poliserna från situationen är utom sig av förtjusning, och visar sig vara riktiga "fans"!
 - Vice borgmästaren, som förstås är i chock, skulle kunna tänka sig att starta en ny fredskonferens, men vill undvika att katastrofen från förra gången upprepar sig.
 - Festinas nätverk ansluter sig till Teamets sak, de kan expandera sin verksamhet till både Imperiet och Kungadömet.
 - Med vapenlagret beslagtaget måste Staden agera på sin formella hållning, som är att inte exporta åt någondera tills vidare.
