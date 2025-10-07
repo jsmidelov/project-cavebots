@@ -13,28 +13,32 @@ Här var en bra artikel på ämnet: https://medium.com/@puja_guha/what-makes-a-g
 
 - Vårt lag upptäcker en hamn i bunkern med anslutning till en bred flod. De har fullt fungerande fartyg, men de har varit stillastående för länge. Att det alls finns en hamn här tyder på att floden är viktig, och de vet att Imperiets kärna ligger längsmed en stor flod, så de bestämmer sig för att följa den nedströms.
 - De anländer till byar längsmed floden, pratar med folk. De är frispråkiga i allmänhet, men börjar använda omskrivelser och antydanden så fort de nämner något politiskt, och när samtal pågått en stund börjar de se sig omkring oroligt. De tar in på ett värdshus över natten, och fortsätter morgonen därpå.
-- Längsmed deras resa noterar de till och från en surrande drönare över deras huvuden.
+- Längsmed deras resa noterar de till och från surrande drönare över deras huvuden (kanske i samband med strider? Min story är på tok för illa förankrad i spelmekaniken).
 
 ### Akt 1
-- De når huvudstaden. Folk lever som folk gör mest, men allt har en spänd stämning. Börjar man se sig omkring kan man skymta civilklädda spanare och dolda kameror överallt (troligen missar en spelare detta första gången, men kanske ser det vid en omspelning).
+- De når huvudstaden. Folk lever som folk gör mest, men allt har en spänd stämning. Börjar man se sig omkring kan man skymta civilklädda spanare med hölstrade dolkar överallt i skuggorna. Vid en omspelning kan de kanske också se övervakningskameror i vart och varannat gathörn.
 - En maskerad typ rycker undan dem från gatan och in i en gränd. Det är Fortitudo! Hon ber dem följa henne, och följa hennes minsta uppmaningar. De gör precis som hon säger, och leds till en källarlokal med beväpnade och kamoflerade vakter utanför.
 - Där får de förklarat att staden är full av osynlig övervakning, och kejsarens underrättelsetjänst försöker hålla detaljkoll på alla invånares förehavanden. Kejsaren har under krigets gång börjat se fiender i varje vrå, särskilt efter att ha överlevt några faktiska mordförsök från inom sin närmaste krets. Det har bara fått motståndet att växa, men också allt tyckande att kvävas under säkerhetstjänstens misstänksamhet.
-- Tills nyligen har de saknat alternativ, men de har nyligen fått med sig kronprincessan i en konspiration om att störta kejsaren för att rädda imperiet.
-- Det hade inte spelat någon roll om kronprincessan hade samma uppfattningar som sin far, men Fortitudo har lyckats vinna kronprincessans öra och plantera andra tankar.
+- Tills nyligen har de saknat alternativ, men de har nyligen fått med sig kronprincessan i en konspiration om att störta kejsaren för att rädda imperiet. Kronprincessan gillar nämligen inte kriget, och gott om egna idéer, men hon har saknat egna agenter för att främja sina intressen. Med teamets närvaro förändras förmågan. Hon måste hålla sina händer rena för att förbli ett politiskt möjligt alternativ, men så länge teamet håller behörigt avstånd kan hon hålla "plausible deniability" över vad de gör.
+- Fortitudos plan därför egentligen enkel. De behöver skapa förutsättningar som till synes tvingar henne att ta tronen. Om princessan ska "tvingas" ta tronen behöver kejsaren försvinna från den. Det ger dem egentligen bara ett alternativ. Hon visar upp en serie med flaskor med suspekt innehåll, märkta med etiketter med gulligt ritade skallar på. Planen är att infiltrera säkerhetsapparaten, så att de ohotat kan nå kejsarens sängkammare medan han sover.
 
 ### Akt 2
-- Laget reser till palatset med Fortitudos inbjudan för att delta på bjudning.
-- Kejsarens roll är en konfliktlösare och samordnare mellan de olika kungarna på kontinenten, ett ansvar kejsaren axlar på största allvar. I praktiken lägger han sig i oftare och med större godtycke än kungarna önskar, så många håller privat sympatier för utbrytarna i Fyra Pelarna och ger inte Kejsaren mer resurser än de måste utan att väcka misstankar.
-- Kronprincessan gillar inte kriget, men dels saknar hon egna relationer till kungarna, dels saknar hon egna agenter för att främja sina intressen. Hon har dessutom inte haft något egentligt alterntaiv att framföra till kungarna, så har aldrig riktigt _haft_ egna intressen.
+-- Vad är konflikten i den här berättelsen?!
+-- Vad för de till palatset? Den här akten behöver nyansera och problematisera konflikten. Ska jag flytta in "Akt 3" här, i en klassisk "det här är för enkelt", göra kejsaren bekännelse till en plot twist, och låta Akt 3 vara hur de gör upp med kronprincessan?
 
 ### Akt 3
-- Mitt i natten, Laget smyger sig igenom palatset - med kronprincessan själv i gruppen - mellan säkerhetskameror och vaktar för att nå kejsaren.
-- De blir förstås upptäckta, och laget fokuserar på att skydda kronprincessan medan hon rusar mot dit de har uppgift att kejsaren finns.
-- Princessan lyckas! Eftersom de haft agenter i Kejsarens närmaste garde har de gett honom sömntabletter nog att sova genom kaoset.
-- När Kejsaren vaknar finner hon kronprincessan sitta i rummet och erbjuda två alternativ: Att avgå "frivilligt" eller att överlämna genom tronföljden. Hon önskar att han väljer det första.
+- Mitt i natten, Laget smyger sig igenom palatset mellan säkerhetskameror och vaktar för att nå kejsaren.
+- De når säkerhetscentralen, där de placerar Sophia att ta över alla säkerhetssystem.
+- De tar sig nu, med Sophias hjälp, osett vidare till kejsarens kammare, där En och Andrei tar över vakttjänsten från vakterna utanför.
+- Fortitudo smyger sig in i rummet. Härifrån väntar de spännt på att ingen förbigående ska misstänka något.
+- När Kejsaren vaknar finner han Fortitudo sitta vid sängkanten. Med dragen dolk (symboliskt värre) och tömda flaskor vars etiketter har gulliga döskallar på, förklarar hon att det här på ena eller andra sättet är kejsarens sista natt i rollen. Kejsaren försöker förstås påkalla vakter, slåss, eller fly, men Fortitudo avvärjer varje sådant försök. Hon påpekar sedan att hon medvetet var tvetydig, det finns en annan väg ut: Abdikera tronen till kronprincessan, och han står under deras beskydd från hämnare och kan ta pension i frid.
+- Kejsaren suckar uppgivet. Efter att hans närmaste eliminerats en efter en, blev på något sätt alltid kronprincessans ställning starkare. Han hade alltid tänkt att hon skulle ta över vid hans död ändå, så han insåg aldrig varför hon skulle ha så brottom. Nåväl, han har blivit fullkomligt utmanövrerad, och måste medge att han ändå är lite stolt att hans dotter växt upp till att bli en så slug politisk spelare.
 
 ### Epilog
-- Kronprincessan installeras som ny Kejsare, utfäster i sitt installationstal att det kommer bli nya tider.
+- Samma morgon rapporteras att kejsaren oförutsett abdikerar, och lämnar över imperiets förvaltarskap till kronprincessan.
+- Några dagar därpå installeras Kronprincessan som ny Kejsare, och utfäster i sitt installationstal att det nu kommer bli nya tider.
+- Fortitudo förklarar för teamet att alternativet att framtvinga abdikation alltid fanns. Även om lönnmord var djupt oaptitligt, och hon ångrar att behöva ljuga för teamet, behövde det verka trovärdigt, och det innebar tyvärr att resten av teamet behövde vara övertygade om att lönnmord var planen, men hållas borta från positionen att utföra dådet.
+- När allt ståhej lagt sig kommer Ex-kejsaren till teamet, och tackar för att de erbjöd honom en väg ut. När pelarna förklarade sig självständigt blev den politiska logiken ett självspelande piano bortom hans kontroll, och han har varit som en fånge i sitt eget fängelse. Kanske kommer kronprincessan förändra det, men det är inte längre hans problem. Han tänker sig nog att han ska resa bort från allt - norrut eller över havet - och skriva sina memoarer.
 
 ## Anteckningar för att stödja berättelsen
 
