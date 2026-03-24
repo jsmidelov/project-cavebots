@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../../lib/style/style.css" />
-    <script defer src="../../lib/elements/navigation-footer.js"></script>
-    <script defer src="../../lib/elements/speech-box.js"></script>
-    <title>Hidden Daggers: Act 1</title>
-</head>
-<body>
 <!--
     - De når huvudstaden. Folk lever som folk gör mest, men allt har en spänd stämning. Börjar man se sig omkring kan man skymta civilklädda spanare med hölstrade dolkar överallt i skuggorna. Vid en omspelning kan de kanske också se övervakningskameror i vart och varannat gathörn.
     - En maskerad typ rycker undan dem från gatan och in i en gränd. Det är Fortitudo! Hon ber dem följa henne, och följa hennes minsta uppmaningar. De gör precis som hon säger, och leds till en källarlokal med beväpnade och kamoflerade vakter utanför.
@@ -17,5 +5,3 @@
     - Tills nyligen har de saknat alternativ, men de har nyligen fått med sig kronprincessan i en konspiration om att störta kejsaren för att rädda imperiet.
     - Det hade inte spelat någon roll om kronprincessan hade samma uppfattningar som sin far, men Fortitudo har lyckats vinna kronprincessans öra och plantera andra tankar.
 -->
-</body>
-</html>

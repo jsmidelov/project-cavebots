@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../../lib/style/style.css" />
-    <script defer src="../../lib/elements/navigation-footer.js"></script>
-    <script defer src="../../lib/elements/speech-box.js"></script>
-    <title>Hidden Daggers: Act 2</title>
-</head>
-<body>
 <!--
 - Laget reser till palatset med Fortitudos inbjudan för att delta på bjudning.
 - Kejsarens roll är en konfliktlösare och samordnare mellan de olika kungarna på kontinenten, ett ansvar kejsaren axlar på största allvar. I praktiken lägger han sig i oftare och med större godtycke än kungarna önskar, så många håller privat sympatier för utbrytarna i Fyra Pelarna och ger inte Kejsaren mer resurser än de måste utan att väcka misstankar.
@@ -17,5 +5,3 @@
 - Med de orden lämnar hon teamet ifred. Skapa förutsättningar som tvingar henne att ta tronen, och begär vad ni behöver genom mellanhänder, men berätta inte för mig vad er plan är. Med de direktiven lämnar hon teamet i fred.
 - Fortitudos plan är egentligen enkel. Om princessan ska "tvingas" ta tronen behöver kejsaren försvinna från den. Det ger dem egentligen bara ett alternativ. Hon visar upp en serie med flaskor med suspekt innehåll, märkta med etiketter med gulligt ritade skallar på. Planen är att infiltrera säkerhetsapparaten, så att de ohotat kan nå kejsarens sängkammare medan han sover.
 -->
-</body>
-</html>
