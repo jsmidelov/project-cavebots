@@ -30,7 +30,7 @@ The story have these major sub-plots
 - The covert war between Stellars and Golems undermines legitimacy of owning your action's consequences
 - Grand visions expressed in endless directives and orders from the Emperor and zero tolerance of questioning has made the citizenry zombiefied slaves
 - A desire to enable perfect lives - expressed through various fees and support programs - have made the fledgling Kingdom a democracy where the power designs the electorate
-- The city is the embodied example of the theme.
+- The city is the embodied example of the theme. Their threat is more one from within, of those would abuse the liberty for short-sighted gain.
 
 ## How character arcs connect to the theme
 
