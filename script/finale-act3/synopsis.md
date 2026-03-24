@@ -188,16 +188,3 @@ Phase 2: The trap is sprung! Now you drain their health bars or however you usua
 - It looks wounded and paniced. Let's form some organized flight to push them to flee!
 
 The organized flight of Light Knights headed right for the weakened Stellar knight proves enough to route them. Victory!
-
-## Five years later
-"Now arriving at: Fortress station. This is the final stop, we ask all passengers to please depart, and thank you for traveling with Pillars Rail."
-
-En departs the train at the newly finished train station. A once long journey now taking mere days and hours. En walks off the platform, and first walk back to the center chamber. Daylight is bursting in, thanks to mirror installations deflecting and spreading natural light. People and Androids bustle the once so haunted hallways on their merry way from wherever to a certain destination. And it's not just those associated with the Fortress, people whose fashion hint of cultures from across the continent walk these halls. While moving, En notice people stopping to look their way, and some bowing courteously or lifting their hats.
-
-Moving on from the center chamber, En takes the opportunity to check in with new and old friends, whether those are the old Android squad or dignitaries from the continent's lands. Eventually, En follows the crowd to their common actual destination - the plateu just outside.
-
-It's the day of final signature marking the formal end of the Post-Arcane war. In the end, the Empire has reshapen itself as a constitional federation, the Empress limiting the Palace's role to an intra-governmental police force to keep the Kings and federal governments abiding the constitution. The federal power instead burrows a lot of how the Four Pillars work, and mostly deal with external defense and curating the legal frameworks that implement the rights of the citizens. This was sufficient for the Pillars to return as a state within this new "Empire". The Fortress will serve as a diplomatic hub and a specialized military arm focused on the extra-terrestial threat, but with no say on internal or planetary affairs non-relating to said threat. With these foundations, even the City found this an order of business they wanted in on, as it would free their resources from local defence to venture out across the entire continent.
-
-So with the view behind them that En, Sophia and Andrei once looked upon with such bewilderment, and where Sophia once claimed a new age, a grand ceremony takes place with the Empress, King, Mayor and - for the Fortress - The Golem Leader put down signatures on a new chapter for the whole continent. The crowd outside give applause with as much hope as katharsis, and En waits for the other Androids to join them. They still have one more thing they wanted to do this day.
-
-So they continue on, along a crowd now dispersing towards parties and celebrations. They reach the flight hangar, where their Light Knights await, and they together take off for a grand tour of the skies.

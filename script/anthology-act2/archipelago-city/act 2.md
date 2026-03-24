@@ -1,0 +1,7 @@
+<!--
+- Laget reser till palatset med Fortitudos inbjudan för att delta på bjudning.
+- Kejsarens roll är en konfliktlösare och samordnare mellan de olika kungarna på kontinenten, ett ansvar kejsaren axlar på största allvar. I praktiken lägger han sig i oftare och med större godtycke än kungarna önskar, så många håller privat sympatier för utbrytarna i Fyra Pelarna och ger inte Kejsaren mer resurser än de måste utan att väcka misstankar.
+- Kronprincessan gillar inte kriget, men dels saknar hon egna relationer till kungarna, dels saknar hon egna agenter för att främja sina intressen. Hon har gott om idéer att framföra till kungarna, men aldrig förmågan att driva egna intressen. Med teamets närvaro förändras förmågan. Hon måste hålla sina händer rena för att förbli ett politiskt möjligt alternativ, men så länge teamet håller behörigt avstånd kan hon hålla "plausible deniability" över vad de gör.
+- Med de orden lämnar hon teamet ifred. Skapa förutsättningar som tvingar henne att ta tronen, och begär vad ni behöver genom mellanhänder, men berätta inte för mig vad er plan är. Med de direktiven lämnar hon teamet i fred.
+- Fortitudos plan är egentligen enkel. Om princessan ska "tvingas" ta tronen behöver kejsaren försvinna från den. Det ger dem egentligen bara ett alternativ. Hon visar upp en serie med flaskor med suspekt innehåll, märkta med etiketter med gulligt ritade skallar på. Planen är att infiltrera säkerhetsapparaten, så att de ohotat kan nå kejsarens sängkammare medan han sover.
+-->

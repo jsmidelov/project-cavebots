@@ -1,0 +1,8 @@
+<!--
+- Mitt i natten, Laget smyger sig igenom palatset mellan säkerhetskameror och vaktar för att nå kejsaren.
+- De når säkerhetscentralen, där de placerar Sophia att ta över alla säkerhetssystem.
+- De tar sig nu, med Sophias hjälp, osett vidare till kejsarens kammare, där En och Andrei tar över vakttjänsten från vakterna utanför.
+- Fortitudo smyger sig in i rummet. Härifrån väntar de spännt på att ingen förbigående ska misstänka något.
+- När Kejsaren vaknar finner han Fortitudo sitta vid sängkanten. Med dragen dolk (symboliskt värre) och tömda flaskor vars etiketter har gulliga döskallar på, förklarar hon att det här på ena eller andra sättet är kejsarens sista natt i rollen. Kejsaren försöker förstås påkalla vakter, slåss, eller fly, men Fortitudo avvärjer varje sådant försök. Hon påpekar sedan att hon medvetet var tvetydig, det finns en annan väg ut: Abdikera tronen till kronprincessan, och han står under deras beskydd från hämnare och kan ta pension i frid.
+- Kejsaren suckar uppgivet. Efter att hans närmaste eliminerats en efter en, blev på något sätt alltid kronprincessans ställning starkare. Han hade alltid tänkt att hon skulle ta över vid hans död ändå, så han insåg aldrig varför hon skulle ha så brottom. Nåväl, han har blivit fullkomligt utmanövrerad, och måste medge att han ändå är lite stolt att hans dotter växt upp till att bli en så slug politisk spelare.
+-->

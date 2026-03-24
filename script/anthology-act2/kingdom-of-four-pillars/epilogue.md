@@ -1,0 +1,6 @@
+<!--
+- Samma morgon rapporteras att kejsaren oförutsett abdikerar, och lämnar över imperiets förvaltarskap till kronprincessan.
+- Några dagar därpå installeras Kronprincessan som ny Kejsare, och utfäster i sitt installationstal att det nu kommer bli nya tider.
+- Fortitudo förklarar för teamet att alternativet att framtvinga abdikation alltid fanns. Även om lönnmord var djupt oaptitligt, och hon ångrar att behöva ljuga för teamet, behövde det verka trovärdigt, och det innebar tyvärr att resten av teamet behövde vara övertygade om att lönnmord var planen, men hållas borta från positionen att utföra dådet.
+- När allt ståhej lagt sig kommer Ex-kejsaren till teamet, och tackar för att de erbjöd honom en väg ut. När pelarna förklarade sig självständigt blev den politiska logiken ett självspelande piano bortom hans kontroll, och han har varit som en fånge i sitt eget fängelse. Kanske kommer kronprincessan förändra det, men det är inte längre hans problem. Han tänker sig nog att han ska resa bort från allt - norrut eller över havet - och skriva sina memoarer.
+-->
