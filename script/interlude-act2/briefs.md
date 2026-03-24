@@ -4,7 +4,9 @@ These come in sequential order between the anthology stories to bring the story 
 
 ## After first branch
 
-The team discovers the fortress has an integrated air base, which would let them project power not just anywhere on the continent, but potentially a global scale. And that in a world that has shown no sign of airpower. They're sitting on a massive advantage as long as they can keep the fort. But why would such a thing have to be carved within a mountain?
+The team discovers the fortress holds a garage with vehicles and cycles. They don't have nearly enough power to start more than the road-laying robot and a vehicle, but even that brings all towns they've reached so much closer.
+
+Still, there are way too many vehicles here for their needs, and not all of them seems made to stay on solid ground. Why is such a depot within the mountain?
 
 ## After second branch
 
