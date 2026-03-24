@@ -3,13 +3,6 @@ Den här storyn är i grund och botten en valkampanj. Turligt nog har jag egen e
 
 För att förankra med temat "där det finns frihet finns det hopp?", är det troligaste att den sittande prinsen håller en mer auktoritär linje inrikes, och "pest eller kolera"-alternativ gjort folk uppgivna.
 
-## Reflektioner, utkast 1
-Det här må vara en "write what you know"-berättelse, men Tem är en fisk på torra land här. Han är en stoiker med våldskapital och enorm potential, men fast i en berättelse om retorik och politiska intriger. Han får heller inget tillfälle att visa sina fördelar för spelaren/spelarna, då han internlogiskt måste skrivit ut sig själv. Vad vore en berättelse där hans styrkor går ihop med berättelsen och spelet?
-Svar på mig själv: Det kanske är det som _är_ Tems arc och halva storyn? Naturligtvis behöver vi mer "screen time" med Tem här, så hans ursäkt att inte hänga med teamet behöver bli hans ursäkt _att_ göra det, så han kan få öppna upp sig. I kontrast med Princessan (särskilt om hon är kameleonten i det fördolda till det sista) är Tem en karaktär vi lär vilja lära känna så vi kan möta denna inre konflikt.
-
-## Reflektioner, utkast 2
-Den här berättelsen har ändå ett centralt "character arc" och både ett mystik och spänning. Däremot har det inte mycket med temat att göra, och det känns mer som att Tem vinner på externa interventioner och våldskapital än på att frihet ger hopp.
-
 ## Prolog
 - Från entréhallen upptäcker de en tågcentral, vars skyltning visar "Västkedje-expressen". Även om tågen ser för nedgångna ut att användas, kan de följa rälsen.
 - Resan tar de längsmed bergssidor längs hela Västkedjan, även om det rasat ner stenar och passager längsmed banan, tills de till slut anländer utanför huvudstaden för de Fyra Pelarna. Här försvinner till slut spåren (eftersom ingen sett en poäng att underhålla räls som inte verkar leda någonstans) och ersätts med stadens bebyggelse.
