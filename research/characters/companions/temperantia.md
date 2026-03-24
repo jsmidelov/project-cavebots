@@ -9,11 +9,14 @@ Called by the team: Tem
 
 ## Personality
 
-As a person, he is a stoic, displaying control and restraint, only using force as a last resort and only as much as the situation requires (when you are designed to blow things up, things gone wrong goes very, very wrong). He can put on a convincing aura of a crazed pyromaniac to get others on edge, but even then every move is carefully calculated. To keep the family metaphor, he would fill the “bigger brother” role.
+As a person, he is a stoic, displaying control and restraint, only using force as a last resort and only as much as the situation requires (when you are designed to blow things up, things gone wrong goes very, very wrong). He can put on a convincing aura of a crazed pyromaniac to get others on edge, but even then every move is carefully calculated (So... Goro Majima of Like A Dragon?). To keep the family metaphor, he would fill the “bigger brother” role.
 
 In this new age the Seven has found themselves in, this makes him the ideal tinkerer and engineer, even if the materials he has grown to expect are a rare thing to come by. He needs to think on his feet, and restore a lot of lost fundamentals, but once he has rediscovered an technique of old, he gives the whole crew an edge. And on the occasion where they find relics of the old world, he can craft tools unrivaled by current standards.
 
 ## Story arc
+An expert in demolitions is hardly the best fit for stopping a war, and Tem senses this on a deep level. A "crazed pyromaniac" can only scare people, but not convince or attract. This is a struggle on his part, since he feels like a fish out of water. In short, Tem is going through an identity crisis.
+
+To get through it, he needs the support of his friends/family/team and a new way to think about and apply his strenghts. His intelligence and philosofical grounding makes him a solid thinker, and he discovers the "crazed" persona comes out wit and gravitas that's invaluable in debate and negotiations (So part Wit/Hoid, part Wayne?). His skills and knowledge of times past not only makes him a scientist/engineer, but also a solid leader of ones (think Navani Kholin of Stormlight Archives)
 
 ## Overworld
 
